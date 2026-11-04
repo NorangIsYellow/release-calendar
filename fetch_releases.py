@@ -33,6 +33,13 @@ SERVICES = [
     {"key": "appletv", "label": "애플TV+", "emoji": "⬛", "match": ["apple tv", "애플tv", "애플 tv"]},
 ]
 THEATER = {"key": "movies", "label": "극장 개봉", "emoji": "🎬"}
+
+# OTT 신규 입고 (판권 작품 등이 OTT에 새로 들어온 날을 기록)
+ARRIVALS = {"key": "arrivals", "label": "OTT 신규 입고"}
+ARRIVAL_KEEP_DAYS = 60     # 신규 입고 일정을 며칠간 캘린더에 남겨둘지
+ARRIVAL_SURGE_LIMIT = 150  # 하루에 이보다 많이 '새로' 잡히면 데이터 오류로 보고 등록하지 않음
+CATALOG_MAX_PAGES = 500    # 서비스별 한국 카탈로그를 훑는 페이지 상한 (TMDB 최대 500)
+STATE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "_arrivals_state.json")
 # ────────────────────────────────────────────────────────
 
 API = "https://api.themoviedb.org/3"
@@ -183,6 +190,98 @@ def collect_streaming_movies(providers):
     return events
 
 
+def fetch_catalog(pid):
+    """서비스의 한국 정액제(flatrate) 영화 카탈로그 전체. (영화 dict 목록, 전부 받았는지)"""
+    page, out, total = 1, {}, None
+    while page <= CATALOG_MAX_PAGES:
+        data = api("/discover/movie", page=page, watch_region="KR", with_watch_providers=pid,
+                   with_watch_monetization_types="flatrate", include_adult="false",
+                   language="ko-KR", sort_by="primary_release_date.desc") or {}
+        if total is None:
+            total = data.get("total_results", 0)
+        for m in data.get("results", []):
+            out[m["id"]] = m
+        if page >= data.get("total_pages", 0):
+            break
+        page += 1
+    complete = bool(total) and len(out) >= total * 0.98
+    return out, complete
+
+
+def load_state():
+    try:
+        with open(STATE_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return {"services": {}, "arrivals": []}
+
+
+def save_state(state):
+    os.makedirs(os.path.dirname(STATE_PATH), exist_ok=True)
+    with open(STATE_PATH, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, separators=(",", ":"))
+
+
+def collect_arrivals(providers, originals):
+    """어제까지 없던 영화가 OTT 한국 카탈로그에 새로 보이면 오늘 날짜로 '신규 입고' 기록.
+    서비스별 첫 실행은 현재 카탈로그를 기준선으로 저장만 하고 등록하지 않는다."""
+    print("OTT 신규 입고 확인…")
+    state = load_state()
+    today = TODAY.isoformat()
+
+    for svc in SERVICES:
+        pid = resolve_provider(svc, providers)
+        if not pid:
+            print(f"  ! {svc['label']} 제공처 ID 없음")
+            continue
+        catalog, complete = fetch_catalog(pid)
+        st = state["services"].setdefault(svc["key"], {"baselined": False, "seen": []})
+        seen = set(st["seen"])
+
+        if not st["baselined"]:
+            if complete:
+                st["baselined"] = True
+                print(f"  {svc['label']}: 기준선 저장 ({len(catalog)}편) — 내일부터 신규 입고 등록")
+            else:
+                print(f"  {svc['label']}: 카탈로그를 다 못 받아서 기준선 보류")
+            st["seen"] = sorted(seen | set(catalog))
+            continue
+
+        new = [catalog[i] for i in catalog if i not in seen]
+        if len(new) > ARRIVAL_SURGE_LIMIT:
+            print(f"  ! {svc['label']}: 신규 {len(new)}편은 비정상적으로 많아 등록하지 않음")
+        else:
+            for m in new:
+                state["arrivals"].append({
+                    "id": m["id"], "svc": svc["key"], "date": today,
+                    "title": m.get("title"), "original_title": m.get("original_title"),
+                    "overview": m.get("overview"), "release_date": m.get("release_date"),
+                })
+            print(f"  {svc['label']}: 신규 {len(new)}편")
+        st["seen"] = sorted(seen | set(catalog))
+
+    cutoff = (TODAY - dt.timedelta(days=ARRIVAL_KEEP_DAYS)).isoformat()
+    state["arrivals"] = [a for a in state["arrivals"] if a["date"] >= cutoff]
+    save_state(state)
+
+    by_key = {s["key"]: s for s in SERVICES}
+    events = []
+    for a in state["arrivals"]:
+        svc = by_key.get(a["svc"])
+        if not svc or (a["id"], a["svc"]) in originals:
+            continue    # 오리지널로 이미 잡힌 작품은 중복 등록하지 않음
+        e = make_event("movie", a["id"], dt.date.fromisoformat(a["date"]), svc,
+                       a["title"], a["original_title"], a["overview"], kind="신규 입고")
+        if a.get("release_date"):
+            e["description"] = e["description"].replace(
+                "신규 입고", f"신규 입고 (최초 개봉 {a['release_date']})", 1)
+        e["uid"] = f"arrivals-{a['svc']}-{a['id']}@release-calendar"
+        e["feed"] = ARRIVALS["key"]
+        e["category"] = ARRIVALS["label"]
+        events.append(e)
+    return events
+
+
 def make_event(media, uid, date, svc, title, original, overview, kind, link_id=None):
     link_id = link_id or uid
     url = f"https://www.themoviedb.org/{media}/{link_id}?language=ko-KR"
@@ -202,6 +301,7 @@ def make_event(media, uid, date, svc, title, original, overview, kind, link_id=N
         "url": url,
         "category": svc["label"],
         "feed": svc["key"],
+        "mid": link_id,
     }
 
 
@@ -298,7 +398,9 @@ def main():
 
     providers = (api("/watch/providers/movie", watch_region="KR", language="ko-KR") or {}).get("results", [])
 
-    all_events = collect_theater() + collect_streaming_movies(providers)
+    streaming = collect_streaming_movies(providers)
+    originals = {(e["mid"], e["feed"]) for e in streaming}
+    all_events = collect_theater() + streaming + collect_arrivals(providers, originals)
 
     # 같은 UID 중복 제거
     uniq = {}
@@ -306,12 +408,16 @@ def main():
         uniq.setdefault(e["uid"], e)
     all_events = list(uniq.values())
 
-    feeds = [("all", "전체", all_events), (THEATER["key"], THEATER["label"],
-             [e for e in all_events if e["feed"] == THEATER["key"]])]
-    feeds += [(s["key"], s["label"], [e for e in all_events if e["feed"] == s["key"]]) for s in SERVICES]
+    def pick(key):
+        return [e for e in all_events if e["feed"] == key]
 
+    feeds = [("all", "전체", all_events), (THEATER["key"], THEATER["label"], pick(THEATER["key"]))]
+    feeds += [(s["key"], s["label"], pick(s["key"])) for s in SERVICES]
+    feeds.append((ARRIVALS["key"], ARRIVALS["label"], pick(ARRIVALS["key"])))
+
+    names = {"all": "개봉·공개 예정 (전체)", ARRIVALS["key"]: ARRIVALS["label"]}
     for key, label, evs in feeds:
-        cal_name = "개봉·공개 예정 (전체)" if key == "all" else f"{label} 예정작"
+        cal_name = names.get(key, f"{label} 예정작")
         with open(os.path.join(OUT_DIR, f"{key}.ics"), "w", encoding="utf-8", newline="") as f:
             f.write(build_ics(cal_name, evs))
         print(f"  {key}.ics: {len(evs)}건")
