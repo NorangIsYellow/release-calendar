@@ -8,255 +8,8 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:movies-movie-1298085@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 구제역에서 살아 돌아온 돼지
-DESCRIPTION:극장 개봉 · 영화\n\n살처분 구덩이에서 기적같
- 이 생존한 돼지 ‘H’는 오직 살아남기 위해 ‘인간’이
-  되기로 결심하고\, 평생 폭력과 괴롭힘에 고통받던 청
- 년 ‘정석’은 그저 벗어나기 위해 ‘짐승’의 삶을 선
- 택한다. 인간이 되려는 돼지\, 짐승이 되려는 인간 그리
- 고 그들이 물어뜯는 지옥 같은 세상. “제발 지옥 속에
- 서 우리를 구제(救濟)하소서”\n\nhttps://www.themoviedb.org/mov
- ie/1298085?language=ko-KR
-URL:https://www.themoviedb.org/movie/1298085?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1728590@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 눈 둘 데가 없네
-DESCRIPTION:극장 개봉 · 영화\n\n부모가 어릴 적 이혼했고\, 
- 상희는 대부분의 시간을 조부모와 함께 살았다. 남자 동
- 생과 함께 제주도에 정착한 어머니를 찾아간다. 마지막
- 으로 어머니를 본 게 십 년은 되었다. 새아버지는 도큐
- 멘터리를 만드는 사람이고\, 요새는 “초분”에 관한 영
- 화를 만들고 있다. 엄마가 하는 밥집은 대박이 났고\, 거
- 기서 큰 돈을 벌었다고 한다. 새아버지가 데리고 온 딸
- 도 만나는데\, 이제 막 그림을 시작한 참이다. 상희는 과
- 자 수입회사에서 일하면서 남는 시간에 아주 짧은 영화
- 들을 혼자서 만들고 있다. 이박 삼일을 이 사람들과 함
- 께 시간을 보내는데\, 전엔 몰랐던 사실들\, 받아들이기 
- 힘든 충고들\, 값싼 칭찬들이 오고 간다. 돌아오는 날 아
- 침\, 상희가 만든 영화 중 하나를 다른 식구들이 그녀 몰
- 래 보고 있다.\n\nhttps://www.themoviedb.org/movie/1728590?language=ko
- -KR
-URL:https://www.themoviedb.org/movie/1728590?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1564614@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 레위기
-DESCRIPTION:원제: Leviticus\n극장 개봉 · 영화\n\n두 십대 소년
- 은 자신이 가장 욕망하는 사람의 모습으로 변하는 폭력
- 적인 존재로부터 도망쳐야 한다. 그리고 그 존재는\, 서
- 로의 모습을 하고 있다.\n\nhttps://www.themoviedb.org/movie/156461
- 4?language=ko-KR
-URL:https://www.themoviedb.org/movie/1564614?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1425714@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 보이는 여고생
-DESCRIPTION:원제: 見える子ちゃん\n극장 개봉 · 영화\n\n어
- 느 날 갑자기 귀신이 보이기 시작한 평범한 여고생 ‘미
- 코’. 무시무시한 귀신들이 눈앞에 나타나도 ‘미코’
- 가 할 수 있는 건 단 하나\, 죽을 힘을 다해 ‘못 본 척’
- 하는 것! 절친 ‘하나’에게 귀신이 붙어도 ‘미코’는 
- 끝까지 모르는 척 학교 생활을 이어간다. 하지만 임시 
- 담임 ‘토노 선생님’이 부임한 후 ‘하나’에게 이상
- 한 변화가 나타나기 시작하고\, 결국 ‘하나’가 쓰러지
- 면서 상황은 걷잡을 수 없이 변하는데…\n\nhttps://www.themo
- viedb.org/movie/1425714?language=ko-KR
-URL:https://www.themoviedb.org/movie/1425714?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1584855@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 실낙원
-DESCRIPTION:극장 개봉 · 영화\n\n9년 전 캠핑스쿨 버스 실종 
- 사건으로 아들을 잃은 류소영은 '낙원의 아이들'이라는 
- AI 프로그램을 통해 어린 시절의 아들과 만나며 하루하
- 루를 버텨낸다. 그러던 어느 날 죽은 줄로만 알았던 아
- 들 류선우가 9년 만에 집으로 돌아온다. 기적 같은 생존 
- 소식에 세상은 들썩이지만 흉터로 가득한 몸과 서늘한 
- 눈빛\, 무엇보다 자신이 기억하는 순수했던 아들의 흔적
- 을 어디에서도 찾을 수 없는 낯선 모습에 소영은 불안감
- 을 느낀다. 소영과 선우\, 그리고 AI로 생성된 어린 시절
- 의 선우까지 기묘하고 불편한 동거가 시작되고 소영은 
- 점점 드러나는 아들의 실체에 충격을 받는데...\n\nhttps://
- www.themoviedb.org/movie/1584855?language=ko-KR
-URL:https://www.themoviedb.org/movie/1584855?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1155828@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 씽씽
-DESCRIPTION:원제: Sing Sing\n극장 개봉 · 영화\n\n부당한 판결
- 로 살인죄 혐의를 받고 '씽씽 교도소'에 수감된 '디바인 
- G' RTA 프로그램에 참여해 연극을 시작하고\, 각본을 쓰며
-  그는 점차 새로운 삶의 의미를 찾아간다. 모든 것이 멈
- 춰버린 그곳에서 더 나은 사람이 되고자 희망을 놓지 않
- 는 사람들. 그러던 어느 날\, 예상치 못한 동료의 죽음과
-  기다렸던 가석방 심사마저 어려움을 겪으며 또다시 좌
- 절하게 되는데...\n\nhttps://www.themoviedb.org/movie/1155828?languag
- e=ko-KR
-URL:https://www.themoviedb.org/movie/1155828?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1652642@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 여전히 찬란하게
-DESCRIPTION:극장 개봉 · 영화\n\n오랫동안 찾아 헤매던 단짝
-  정임과 마침내 다시 만난 순옥은 어릴 적 시골 마을에
- 서부터 함께 염원하던 노래자랑 참가를 위해 서울행을 
- 결심한다. 설렘도 잠시\, 순옥은 정임이 자신의 이름도\,
-  꿈도\, 함께했던 시간들까지도 조금씩 잊어간다는 것을
-  알게 된다. 순옥은 사라져가는 기억을 붙잡듯 자꾸만 
- 그 시절 이야기를 꺼내기 시작한다. 1942년\, 빼어난 노래
-  실력을 가진 소녀 정임과 언제나 옆에서 열렬히 응원하
- 는 소녀 순옥. 서로의 팔에 둘만의 증표를 새긴 두 소녀
- 는 서울에서 노래하고 돈도 벌자는 꿈을 나누며 영원한 
- 우정을 약속한다. 한편\, 마을에는 공장 취직을 빌미로 
- 소녀들을 잡아간다는 흉흉한 소문이 들려오고 두 사람
- 은 다가오는 위협을 피해 숨을 곳을 찾는데…\n\nhttps://ww
- w.themoviedb.org/movie/1652642?language=ko-KR
-URL:https://www.themoviedb.org/movie/1652642?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1507563@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 워렌 부인의 직업
-DESCRIPTION:원제: National Theatre Live: Mrs. Warren's Profession\n극장
-  개봉 · 영화\n\n비비 워렌은 시대를 앞서가는 여성이었
- 다. 하지만 그녀의 어머니는 낡은 가부장적 질서의 산물
- 이었다. 워렌 여사는 그 질서를 이용해 막대한 부를 축
- 적했지만\, 그 대가는 무엇이었을까?\n\nhttps://www.themoviedb
- .org/movie/1507563?language=ko-KR
-URL:https://www.themoviedb.org/movie/1507563?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1419053@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 차오
-DESCRIPTION:원제: ChaO\n극장 개봉 · 영화\n\n인간과 인어가 
- 공존하는 미래 도시. 선박 회사에 다니는 평범한 회사원
-  스테판은 어느 날\, 인어 왕국의 공주 차오에게 난데없
- 는 청혼을 받는다. 전대미문의 프러포즈는 순식간에 온 
- 세상에 퍼지고\, 두 사람의 결혼은 어느새 '인간과 인어\
- , 두 종족의 우호를 상징하는 세기의 결혼식'으로 떠들
- 썩해진다. 영문도 모른 채 분위기에 휩쓸려 식을 올린 
- 스테판! 인간 세계가 처음인 차오와의 하루하루는 아슬
- 아슬하고 두근거리는 나날의 연속이다! 하지만 순수하
- 고 한결같은 차오의 애정 앞에서\, 스테판의 마음에도 
- 조금씩 따뜻한 감정이 피어나기 시작하는데. 과연 두 사
- 람의 사랑은 어디로 향하게 될까?\n\nhttps://www.themoviedb.org
- /movie/1419053?language=ko-KR
-URL:https://www.themoviedb.org/movie/1419053?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1400940@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 클레이페이스
-DESCRIPTION:원제: Clayface\n극장 개봉 · 영화\n\n할리우드의 
- 주연 배우로 유명 영화제 수상을 눈 앞에 두며 꿈을 이
- 루기 직전인 ‘맷 헤이건’. 그러나 한 순간의 실수로 
- 범죄 조직의 타겟이 되어 얼굴이 처참하게 훼손되며 그
- 의 빛나던 인생은 하루 아침에 비극으로 뒤바뀐다. 커리
- 어도\, 사람들도 모두 잃은 ‘맷’은 과학자 ‘닥터 케
- 이틀린’의 미완성 최첨단 나노 기술에 마지막 희망을 
- 걸고 기적적으로 예전의 얼굴을 되찾는 데 성공하지만 
- 기쁨도 잠시 그의 몸에는 인간의 형체마저 무너뜨리는 
- 끔찍한 변화가 시작된다. 또한 자신을 공격한 범죄 조직
- 에 연루된 자들의 정체를 알게 되자 걷잡을 수 없는 분
- 노에 사로잡힌 ‘맷’은 자신의 모든 것을 빼앗아간 이
- 들을 향한 처절한 복수에 나서는데...\n\nhttps://www.themovied
- b.org/movie/1400940?language=ko-KR
-URL:https://www.themoviedb.org/movie/1400940?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-1376681@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 킬링타임
-DESCRIPTION:극장 개봉 · 영화\n\n인터넷 방송 중 발생한 사
- 망 사고로 나락에 떨어진 몰카 크루 ‘킬링타임’. 방송
- 을 그만두고 자숙하던 ‘킬링타임’의 스트리머 ‘연우
- ’는 ‘주원’의 제안으로 새로운 콘텐츠 촬영을 위해 
- 폐병원을 찾는다. 하지만 촬영이 시작되자 정체불명의 
- 존재가 크루들을 위협하고 더는 물러설 곳이 없던 크루
- 들은 이제 반대로 생존을 위해 달려야 한다.\n\nhttps://www.
- themoviedb.org/movie/1376681?language=ko-KR
-URL:https://www.themoviedb.org/movie/1376681?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:movies-movie-627@release-calendar
-DTSTAMP:20261104T045104Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 트레인스포팅
-DESCRIPTION:원제: Trainspotting\n극장 개봉 · 영화\n\n스코틀랜
- 드 에딘버러의 뒷골목에 살고 있는 렌튼\, 스퍼드\, 벡비
- \, 식보이\, 토미는 아무런 희망 없이 하루하루를 살아간
- 다. 이들에게 있어 유일한 즐거움은 마약을 하는 것이다
- . 이들은 마약을 사기 위해 강도 행각을 벌이고\, 아기가
-  마약을 먹고 죽는 상황까지 벌어지게 된다. 그 후 백화
- 점을 털던 스퍼드는 실형을 선고 받고\, 렌튼은 끔찍한 
- 과정을 거쳐 마약을 끊고 취직을 한다. 건실하던 토미는
-  에이즈로 죽고\, 벡비는 장물아비로\, 식보이는 포주 노
- 릇을 한다. 하지만 이것도 잠시\, 이들은 다시 모여 마약
- 을 팔아 큰 돈을 챙기고 렌튼은 친구들이 잠든 사이에 
- 돈가방을 들고 혼자 달아나는 사건이 벌어지는데...\n\nht
- tps://www.themoviedb.org/movie/627?language=ko-KR
-URL:https://www.themoviedb.org/movie/627?language=ko-KR
-CATEGORIES:극장 개봉
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:movies-movie-1160923@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:🎬 다크게임: 죽음의 생중계
@@ -272,7 +25,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1283515@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:🎬 베러티
@@ -297,7 +50,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1797226@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:🎬 하이브 치어링 파티
@@ -318,7 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1661000@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 7데이즈 7피플
@@ -337,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1590933@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 그대\, 별처럼
@@ -358,7 +111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1546050@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 론 사무라이
@@ -376,7 +129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1498729@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 브루넬로: 우아한 선구자
@@ -398,7 +151,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1477104@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 숀 더 쉽: 공포의 털보 괴물
@@ -420,7 +173,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1083624@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 수능\, 출제의 비밀
@@ -438,7 +191,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1503762@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 이성과 감성
@@ -459,7 +212,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-678299@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 장님 버드나무와 잠자는 여자
@@ -483,7 +236,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-9470@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 쿵푸 허슬
@@ -506,7 +259,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1263337@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 하트 오브 비스트
@@ -522,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1470350@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 흐르는 여정
@@ -539,7 +292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1752982@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🎬 부활 그 사랑
@@ -579,7 +332,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1058078@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🎬 카루셀: 피의 놀이동산
@@ -600,7 +353,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-822653@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 극장판 마법소녀 마도카☆마키카 <발푸르기스
@@ -625,7 +378,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1337732@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 낮과 밤은 서로에게
@@ -643,7 +396,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1468846@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 변이
@@ -660,7 +413,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-891621@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 와일드 호스 나인
@@ -675,7 +428,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1371007@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 인생세탁소
@@ -695,7 +448,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1180894@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 잠들 수 없는 집
@@ -714,7 +467,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1545057@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 최종면접
@@ -734,7 +487,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1777750@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🎬 명탐정 코난: 30호 살인 사건
@@ -765,7 +518,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1117898@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🎬 모자 쓴 고양이
@@ -790,7 +543,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-45043@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 거짓말
@@ -817,7 +570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-31347@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 극장판 카드캡터 체리 : 봉인된 카드
@@ -838,7 +591,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-254320@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 더 랍스터
@@ -860,7 +613,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1165366@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 드골: 저항의 시작
@@ -884,7 +637,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1102883@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 마더 메리
@@ -902,7 +655,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1887@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 마리 앙투아네트
@@ -920,7 +673,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1805433@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 베리 베리 스트레인지 러브
@@ -936,7 +689,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1567605@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 스크루지: 크리스마스 캐럴
@@ -956,7 +709,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-13980@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 스트레인저 – 무황인담
@@ -974,7 +727,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1443@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 처녀 자살 소동
@@ -991,7 +744,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1101412@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 폴2: 데드포인트
@@ -1006,7 +759,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1318413@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 프레셔
@@ -1023,7 +776,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1453303@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 호루몽
@@ -1044,7 +797,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1429217@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 후광
@@ -1057,8 +810,28 @@ CATEGORIES:극장 개봉
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movies-movie-1288445@release-calendar
+DTSTAMP:20261104T215439Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🎬 뮤티니
+DESCRIPTION:원제: Mutiny\n극장 개봉 · 영화\n\n과거 특수부대 
+ 출신이자 민간 보안업체에서 일하는 '콜 리드'. 어느 날\
+ , 자신이 몸담은 조직의 수장이 살해되는 사건이 발생하
+ 고\, 콜은 하루아침에 유력한 용의자로 지목된다. 억울
+ 한 누명을 쓴 채 쫓기는 신세가 된 콜은 사건의 진실을 
+ 추적하던 중 거대한 국제적 음모의 실체와 마주하게 된
+ 다. 사방에서 조여오는 적들의 위협과 벗어날 수 없는 
+ 죽음의 덫! 살아남기 위해\, 그리고 모든 것을 되찾기 위
+ 해 그의 거침없는 반격이 시작된다!\n\nhttps://www.themoviedb.
+ org/movie/1288445?language=ko-KR
+URL:https://www.themoviedb.org/movie/1288445?language=ko-KR
+CATEGORIES:극장 개봉
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movies-movie-1756431@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 눈 내리는 여름\, 너에게
@@ -1076,7 +849,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1400837@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 아더 마미
@@ -1101,7 +874,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1410955@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 아름다운 초저녁달
@@ -1119,7 +892,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1244809@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 폭설
@@ -1137,7 +910,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1300968@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 헝거게임 50번째 추첨의 날
@@ -1158,7 +931,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1284465@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:🎬 데스 오브 로빈 후드
@@ -1176,7 +949,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1575535@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:🎬 심야근무
@@ -1200,7 +973,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1614539@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:🎬 영화 뱅드림! 아베 무지카 프리마 오로라
@@ -1217,7 +990,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1720486@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Lilo & Scratch
@@ -1229,7 +1002,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1165369@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 드골2: 자유의 시대
@@ -1253,7 +1026,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1057888@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 마른 잎
@@ -1270,7 +1043,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1400336@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 미트 페어런츠 4
@@ -1282,7 +1055,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1317410@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 슬픈 열대
@@ -1299,7 +1072,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1457866@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 클리프 부스의 더 뻔뻔한 모험
@@ -1332,7 +1105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1538497@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 헥스: 마녀왕국
@@ -1354,7 +1127,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1384112@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 내일의 민재
@@ -1376,7 +1149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1214931@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 뉘른베르크
@@ -1403,7 +1176,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1802305@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 러브 와이파이 궁
@@ -1423,8 +1196,33 @@ CATEGORIES:극장 개봉
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movies-movie-1559123@release-calendar
+DTSTAMP:20261104T215439Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 머지않아\, 이별입니다
+DESCRIPTION:원제: ほどなく、お別れです\n극장 개봉 · 영화
+ \n\n오늘도 불합격 통보를 받은 취준생 미소라는 조문을 
+ 간 장례식장에서 한 임산부와 눈이 마주친다. 영혼이 보
+ 이는 것을 감추고 살아온 미소라는 한눈에 그녀가 이 세
+ 상 사람이 아님을 눈치챘지만 두고 온 물건을 찾아 달라
+ 는 거절 할 수 없는 부탁을 받게 된다. 미소라는 식을 준
+ 비 중인 장례 플래너 레이지에게 차마 고인의 부탁이라
+ 는 것을 밝히지 못한 채 어렵게 말을 전한다. 그러나 미
+ 소라의 특별함을 단번에 알아본 레이지는 고인의 못다 
+ 한 이야기를 들어줄 유일한 적임자로 그녀를 스카우트
+ 한다. 영혼을 보는 신입 장례 플래너 미소라와 베테랑 
+ 선배 레이지는 떠나는 이들과 남겨진 사람들의 마음에 
+ 매듭을 지어주는 가장 특별하고 아름다운 이별을 준비
+ 하게 되는데…\n\nhttps://www.themoviedb.org/movie/1559123?language=k
+ o-KR
+URL:https://www.themoviedb.org/movie/1559123?language=ko-KR
+CATEGORIES:극장 개봉
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movies-movie-1452168@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 베헤모스!
@@ -1442,7 +1240,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-950028@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 완벽한 초대
@@ -1462,7 +1260,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-750334@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 정가네
@@ -1474,8 +1272,47 @@ CATEGORIES:극장 개봉
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movies-movie-33320@release-calendar
+DTSTAMP:20261104T215439Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 천년여우
+DESCRIPTION:원제: 千年女優\n극장 개봉 · 영화\n\n창립 70주
+ 년을 맞아 개축을 위해 촬영장을 철거하는 '은영' 영화
+ 사는 이를 기념하기 위해 전설적인 여배우 '후지와라 치
+ 요꼬'의 다큐멘터리 영화 제작을 '타찌바나 겐야' 에게 
+ 맡긴다. 평소 그녀의 작품을 수십 번이나 봤을 정도로 
+ 열혈 팬이었던 그는 그녀를 찾아 나선다. 그녀는 전성기
+ 를 누리던 30년 전 갑자기 은막 뒤로 사라진 뒤\, 신비에 
+ 둘러싸여 온 인물. 타찌바나는 어렵게 찾아낸 그녀에게 
+ 그녀가 잃어버린 추억의 열쇠를 내 놓으며 인터뷰를 시
+ 작한다. 그 열쇠는 소녀 시절 그녀가 한 남자에게 받았
+ 던 것이자 그녀의 평생을 이끌어온 운명이었다. 1923년 
+ 관동대지진과 함께 태어난 치요꼬. 한참 국가가 전쟁에 
+ 몰두하고 있던 때\, 그녀는 경찰에 쫓기고 있는 한 남자
+ 를 만난다. 부상 입은 그를 집에 숨겨주던 그날 밤 처음 
+ 만난 그에게 첫사랑을 느끼지만\, 의문의 남자는 치요꼬
+ 를 다시 보지 못한 채 경찰을 피해 만주로 떠나버린다. 
+ 진정한 평화가 오면 고향의 밤하늘을 보여주겠다는 약
+ 속과 함께 '가장 소중한 것을 여는 열쇠'만 남긴 채. 얼
+ 마 후 우연히 영화출연 제의가 들어오자 치요꼬는 그 제
+ 안에 순순히 응한다. 영화를 촬영하게 되는 만주에 그가
+  있다는 소식을 들었기 때문. 이때부터 그녀의 영화인생
+ 이 시작된다. 전국시대를 배경으로 한 영화에서는 군주 
+ 또는 무사를\, 에도 시대에는 반역죄인을\, 막말에는 반
+ 역자로 몰린 개혁운동가를\, 그를 처음 만난 1930년대 말
+ 에는 민권운동가를 사랑하는 여인으로\, 치요꼬는 열쇠
+ 의 남자를 향한 사랑을 영화를 통해 더욱 키워나가는데.
+ .. 그녀가 갑자기 은막 뒤로 사라진 이유는 무엇이며\, 
+ 그 열쇠의 남자와의 운명은 어떻게 될 것인가...\n\nhttps:/
+ /www.themoviedb.org/movie/33320?language=ko-KR
+URL:https://www.themoviedb.org/movie/33320?language=ko-KR
+CATEGORIES:극장 개봉
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movies-movie-1157869@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 패러렐 테일즈: 데칼로그
@@ -1490,7 +1327,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1598766@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:🎬 극장판 짱구는 못말려: 기기괴괴! 나의 요괴 바
@@ -1518,7 +1355,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1600554@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:🎬 서울의 밤
@@ -1535,8 +1372,23 @@ CATEGORIES:극장 개봉
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:movies-movie-1455686@release-calendar
+DTSTAMP:20261104T215439Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎬 미션산타
+DESCRIPTION:원제: Mission Santa – Ein Elf rettet Weihnachten\n극장 
+ 개봉 · 영화\n\n꼬마 요정 요요가 디지털 재난으로부터 
+ 크리스마스를 구하기 위해 고군분투하는 이야기를 그린
+  애니메이션\n\nhttps://www.themoviedb.org/movie/1455686?language=ko-K
+ R
+URL:https://www.themoviedb.org/movie/1455686?language=ko-KR
+CATEGORIES:극장 개봉
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:movies-movie-1653278@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🎬 청어
@@ -1558,7 +1410,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1170608@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 듄: 파트 3
@@ -1572,7 +1424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1003596@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 어벤져스: 둠스데이
@@ -1584,7 +1436,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1691865@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎬 신병 더 무비: 군병원에 귀신이 산다
@@ -1598,7 +1450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:movies-movie-1147572@release-calendar
-DTSTAMP:20261104T045104Z
+DTSTAMP:20261104T215439Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:🎬 나니아: 마법사의 조카

@@ -7,4 +7,25 @@ X-WR-CALNAME:OTT 신규 입고
 X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:arrivals-netflix-378112@release-calendar
+DTSTAMP:20261104T215439Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🟥 빅 위시 (넷플릭스)
+DESCRIPTION:원제: Día de Muertos\n넷플릭스 · 신규 입고 (최초 
+ 개봉 2019-10-24)\n\n일년에 딱 한번\, 산 사람들이 그리운 
+ 사람을 만날 수 있는 ‘죽은자의 날’ 부모님을 찾고 싶
+ 은 ‘코코’도 제단을 만들지만 왜인지 할머니는 ‘코
+ 코’가 부모님을 찾지 못하게 한다.  할머니를 이해할 
+ 수 없는 ‘코코’는 부모님을 찾기 위해 금지 된 ‘비밀
+ 의 성’으로 모험을 떠나고\, 그 곳에서 부모님의 비밀
+ 을 알고 있는 사악한 교수 ‘몰레트’를 만나는데… 놀
+ 랍고 신비로운 모험이 기다리고 있는 죽은자들의 세상! 
+ 과연 ‘코코’는 그리운 부모님을 만날 수 있을까?\n\nhtt
+ ps://www.themoviedb.org/movie/378112?language=ko-KR
+URL:https://www.themoviedb.org/movie/378112?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
