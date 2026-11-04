@@ -10,6 +10,7 @@ import datetime as dt
 import html
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -33,6 +34,18 @@ SERVICES = [
     {"key": "appletv", "label": "애플TV+", "emoji": "⬛", "match": ["apple tv", "애플tv", "애플 tv"]},
 ]
 THEATER = {"key": "movies", "label": "극장 개봉", "emoji": "🎬"}
+
+# 극장 개봉작에서 공연 실황(콘서트 필름, 오페라·연극 중계 등) 제외
+EXCLUDE_LIVE = True
+#   ① 장르가 '다큐멘터리 + 음악' 둘 다인 작품
+#   ② TMDB 키워드 (실행 시 이름으로 ID를 찾아 discover에서 제외)
+LIVE_KEYWORDS = ["concert film", "concert", "filmed concert", "live concert", "concert tour",
+                 "live performance", "filmed theater", "filmed play", "opera performance"]
+#   ③ 제목(한글/원제)에 들어가는 단어 — 대소문자 무시
+LIVE_TITLE_WORDS = ["콘서트", "실황", "투어", "라이브 인 시네마", "앙코르 상영", "메트 오페라",
+                    "메트로폴리탄 오페라", "NT Live", "NT라이브", "concert", "in cinemas", "Met Opera"]
+#   ③-2 대문자로 쓸 때만 공연으로 보는 단어 (Live Free 같은 일반 제목 오탐 방지)
+LIVE_TITLE_UPPER = ["LIVE", "TOUR"]
 
 # OTT 신규 입고 (판권 작품 등이 OTT에 새로 들어온 날을 기록)
 ARRIVALS = {"key": "arrivals", "label": "OTT 신규 입고"}
@@ -123,23 +136,56 @@ def resolve_provider(svc, providers):
 
 
 # ───────────────────── 데이터 수집 ─────────────────────
+def live_keyword_ids():
+    ids = set()
+    for name in LIVE_KEYWORDS:
+        for k in (api("/search/keyword", query=name) or {}).get("results", []):
+            if k.get("name", "").lower() == name:
+                ids.add(k["id"])
+    return ids
+
+
+_LIVE_RE = re.compile("|".join(re.escape(w) for w in LIVE_TITLE_WORDS), re.IGNORECASE)
+_LIVE_UPPER_RE = re.compile(r"\b(" + "|".join(LIVE_TITLE_UPPER) + r")\b")
+
+
+def is_live_show(m):
+    g = set(m.get("genre_ids") or [])
+    if {99, 10402} <= g:                       # 다큐멘터리 + 음악
+        return True
+    for t in (m.get("title"), m.get("original_title")):
+        if t and (_LIVE_RE.search(t) or _LIVE_UPPER_RE.search(t)):
+            return True
+    return False
+
+
 def collect_theater():
     print("극장 개봉작 수집…")
     events = []
+    extra = {}
+    if EXCLUDE_LIVE:
+        kw = live_keyword_ids()
+        if kw:
+            extra["without_keywords"] = "|".join(map(str, sorted(kw)))
     movies = paged("/discover/movie", region="KR", language="ko-KR",
                    with_release_type="2|3", sort_by="popularity.desc",
                    **{"release_date.gte": START.isoformat(),
-                      "release_date.lte": END.isoformat()})
-    seen = set()
+                      "release_date.lte": END.isoformat()}, **extra)
+    seen, skipped = set(), []
     for m in movies:
         if m["id"] in seen or m.get("popularity", 0) < MIN_POPULARITY:
             continue
         seen.add(m["id"])
+        if EXCLUDE_LIVE and is_live_show(m):
+            skipped.append(m.get("title"))
+            continue
         d = kr_release(m["id"], {2, 3})
         if not d:
             continue
         events.append(make_event("movie", m["id"], d, THEATER, m.get("title"),
                                  m.get("original_title"), m.get("overview"), kind="영화"))
+    if skipped:
+        print(f"  공연 실황으로 제외 {len(skipped)}편: " + ", ".join(map(str, skipped)))
     return events
 
 
