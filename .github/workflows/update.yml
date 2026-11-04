@@ -1,0 +1,44 @@
+name: Update release calendar
+
+on:
+  schedule:
+    - cron: "17 21 * * *"   # 매일 06:17 KST
+  workflow_dispatch:         # Actions 탭에서 수동 실행
+  push:
+    branches: [main]
+    paths: ["fetch_releases.py"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch releases and build .ics
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TZ: Asia/Seoul
+        run: python fetch_releases.py
+
+      - name: Commit updated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "Update calendar $(date +'%Y-%m-%d')"
+            git push
+          fi
