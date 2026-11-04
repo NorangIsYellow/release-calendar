@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//release-calendar//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:디즈니+ 예정작
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:disney-movie-1108427-disney@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🟦 모아나 (디즈니+)
+DESCRIPTION:원제: Moana\n디즈니+ · 영화\n\n끝없는 바다 너머 
+ 새로운 세상을 꿈꾸던 모투누이 섬의 소녀 모아나. 어느
+  날 모투누이에 깊은 어둠이 드리우자\, 모아나는 저주
+ 에 빠진 섬을 구하기 위해 전설의 영웅 마우이를 찾아\, 
+ 그와 함께 운명을 건 항해에 나선다. 눈부신 파도\, 거대
+ 한 모험\, 그리고 운명을 바꿀 항해! 오감을 깨울 환상적
+ 인 바다가 생생하게 펼쳐진다!\n\nhttps://www.themoviedb.org/mov
+ ie/1108427?language=ko-KR
+URL:https://www.themoviedb.org/movie/1108427?language=ko-KR
+CATEGORIES:디즈니+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:disney-movie-675871-disney@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🟦 슈퍼 트루퍼스 3 (디즈니+)
+DESCRIPTION:원제: Super Troopers 3\n디즈니+ · 영화\n\nhttps://www.t
+ hemoviedb.org/movie/675871?language=ko-KR
+URL:https://www.themoviedb.org/movie/675871?language=ko-KR
+CATEGORIES:디즈니+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:disney-movie-1493400-disney@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🟦 캠프 락 3 (디즈니+)
+DESCRIPTION:원제: Camp Rock 3\n디즈니+ · 영화\n\n대규모 재결
+ 합 투어의 오프닝 공연 가수를 잃게 된 커넥트 3은 차세
+ 대 스타를 발굴하고자 추억의 장소인 캠프 락으로 돌아
+ 온다. 캠프 참가자들이 우상인 밴드의 오프닝 무대에 설
+  기회를 잡기 위해 경쟁을 벌이는 동안\, 긴장감이 고조
+ 되고 우정은 시험대에 오르며 예상치 못한 동맹과 폭로\
+ , 로맨스가 펼쳐진다.\n\nhttps://www.themoviedb.org/movie/1493400?l
+ anguage=ko-KR
+URL:https://www.themoviedb.org/movie/1493400?language=ko-KR
+CATEGORIES:디즈니+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:disney-movie-1519780-disney@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🟦 Diary of a Wimpy Kid Christmas: The Getaway (디즈니+)
+DESCRIPTION:디즈니+ · 영화\n\nhttps://www.themoviedb.org/movie/151978
+ 0?language=ko-KR
+URL:https://www.themoviedb.org/movie/1519780?language=ko-KR
+CATEGORIES:디즈니+
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

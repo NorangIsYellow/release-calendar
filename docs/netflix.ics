@@ -1,0 +1,1301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//release-calendar//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:넷플릭스 예정작
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:netflix-movie-558449-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🟥 글래디에이터 II (넷플릭스)
+DESCRIPTION:원제: Gladiator II\n넷플릭스 · 영화\n\n로마의 영
+ 웅이자 최고의 검투사였던 막시무스가 콜로세움에서 죽
+ 음을 맞이한 뒤 20여 년이 흐른 후. 쌍둥이 황제 게타와 
+ 카라칼라의 폭압 아래 시민을 위한 자유로운 나라 로마
+ 의 꿈은 잊힌 지 오래다. 한편 아카시우스 장군이 이끄
+ 는 로마군에 대패한 후 모든 것을 잃고 노예로 전락한 
+ 루시우스는 강한 권력욕을 지닌 마크리누스의 눈에 띄
+ 어 검투사로 발탁된다. 로마를 향한 걷잡을 수 없는 분
+ 노\, 타고난 투사의 기질로 콜로세움에 입성하게 된 루
+ 시우스는 결투를 거듭하며 자신이 진짜 누구인지 알게 
+ 되고 마침내 로마의 운명을 건 결전을 준비하게 되는데.
+ ..!\n\nhttps://www.themoviedb.org/movie/558449?language=ko-KR
+URL:https://www.themoviedb.org/movie/558449?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1578079-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🟥 டோரதி (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1578
+ 079?language=ko-KR
+URL:https://www.themoviedb.org/movie/1578079?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1376856-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🟥 ది ప్యారడైజ్ (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1376
+ 856?language=ko-KR
+URL:https://www.themoviedb.org/movie/1376856?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1590718-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🟥 ധൂമകേതു (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1590
+ 718?language=ko-KR
+URL:https://www.themoviedb.org/movie/1590718?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-481084-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🟥 아담스 패밀리 (넷플릭스)
+DESCRIPTION:원제: The Addams Family\n넷플릭스 · 영화\n\n고메즈
+ 와 모티시아는 결혼식 도중에 결혼을 반대하는 사람들
+ 에게 쫓겨 달아나다가 우연히 버려진 성을 발견한다. 으
+ 스스한 그 곳을 집으로 삼고 딸 웬즈데이와 아들 퍽슬리
+ 를 키우며 살아간다. 어느 날\, 아담스 가족은 평범한 동
+ 네를 방문하게 되고 사람들은 그들의 기괴한 모습과 행
+ 동에 기겁하며 달아난다. 웬즈데이가 그 동네의 학교를 
+ 다니게 되면서 파커와 친구가 되어 서로 변해 가기 시작
+ 한다. 파커의 엄마는 이상하게 달라진 파커의 모습에 아
+ 담스 가족을 괴물로 몰아가며 괴롭히기 시작한다.\n\nhttp
+ s://www.themoviedb.org/movie/481084?language=ko-KR
+URL:https://www.themoviedb.org/movie/481084?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-639721-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🟥 아담스 패밀리 2 (넷플릭스)
+DESCRIPTION:원제: The Addams Family 2\n넷플릭스 · 영화\n\n평범
+ 함과는 거리가 먼 호러블리 아담스 패밀리에게 닥친 최
+ 대 위기.  아이들은 사춘기에 접어들고\, 권태로운 가족 
+ 분위기에 위기를 느낀 아빠 ‘고메즈’와 엄마 ‘모티
+ 시아’는 가족들의 화합을 위해 나이아가라 폭포에서 
+ 그랜드 캐니언까지 미국을 가로지르는 가족 여행을 떠
+ 난다. 하지만\, 어쩐지 태생부터 남달랐던 ‘웬즈데이’
+ 의 놀라운 비밀이 밝혀지면서 ‘웬즈데이’의 사춘기는
+  절정에 이르고\, 아담스 패밀리의 여행은 점점 더 신나
+ 고\, 점점 더 절망적인 상황으로 치닫는데…\n\nhttps://www.
+ themoviedb.org/movie/639721?language=ko-KR
+URL:https://www.themoviedb.org/movie/639721?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1453407-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🟥 은폐된 밤 (넷플릭스)
+DESCRIPTION:원제: ग़ज़ब रात\n넷플릭스 · 영화\n\n
+ 부상당한 여성에게 뜻밖의 연민을 느낀 경찰. 고위층의 
+ 음모를 알게 되고\, 하룻밤 사이에 목숨을 건 위험한 게
+ 임에 휘말린다.\n\nhttps://www.themoviedb.org/movie/1453407?language=
+ ko-KR
+URL:https://www.themoviedb.org/movie/1453407?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1780005-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🟥 허리케인을 거슬러 (넷플릭스)
+DESCRIPTION:원제: Contra el huracán\n넷플릭스 · 영화\n\n허리케
+ 인 오티스가 덮친 아카풀코. 서로 거리를 두던 두 형제
+ 가 살아남기 위해 함께 사투를 벌이고\, 절망적인 상황
+ 에서도 형제애와 용기로 희망의 불씨를 피워 낸다. 실화
+ 를 바탕으로 한 이야기.\n\nhttps://www.themoviedb.org/movie/178000
+ 5?language=ko-KR
+URL:https://www.themoviedb.org/movie/1780005?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1596294-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🟥 희망에 마비되다: 마리아 뱀퍼드 이야기 (넷플
+ 릭스)
+DESCRIPTION:원제: Paralyzed by Hope: The Maria Bamford Story\n넷플릭
+ 스 · 영화\n\n마리아 뱀퍼드는 무대와 개인적인 아픔의 
+ 경계를 허무는 코미디로 사랑받아 왔다. 거침없는 유머 
+ 뒤에 숨겨진 그녀의 정신 건강 여정을 진솔하게 풀어놓
+ 은 다큐멘터리.\n\nhttps://www.themoviedb.org/movie/1596294?language=
+ ko-KR
+URL:https://www.themoviedb.org/movie/1596294?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1519340-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:🟥 Jangan Buang Ibu (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1519
+ 340?language=ko-KR
+URL:https://www.themoviedb.org/movie/1519340?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1064307-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🟥 스퍼마게돈: 사정의 날 (넷플릭스)
+DESCRIPTION:원제: Spermageddon\n넷플릭스 · 영화\n\n평범한 10대
+  소년 옌스\, 짝사랑 리사와 드디어 첫 관계를 맺는 역사
+ 적인 순간! 그런데… 그의 몸속에서는 지금껏 누구도 경
+ 험하지 못한 단 한 번뿐인 ‘사정의 날’이 개막한다! 
+ 수억 개의 정자들이 그날을 위해 러닝머신을 뛰고\, 수
+ 영법을 갈고닦고\, 심지어 팀워크 훈련까지 해온 상황. 
+ 단 하나의 목표는 단연코 난자 골인지점! 하지만… 수정
+  따위엔 관심 없는 책벌레 정자 시멘과\, 그를 말리느라 
+ 고생하는 절친 쿠밀라까지 휘말리면서 이 레이스는 순
+ 식간에 생존 서바이벌 코미디로 변한다. 6억 분의 1 확률
+ 을 뚫어야 하는 인류 최초의 레이스! 세계에서 가장 작
+ 지만\, 제일 치열한 서바이벌이 시작된다!\n\nhttps://www.the
+ moviedb.org/movie/1064307?language=ko-KR
+URL:https://www.themoviedb.org/movie/1064307?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1574961-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🟥 Warkop DKI: ViRaLiN dOoOoNg..!! (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1574
+ 961?language=ko-KR
+URL:https://www.themoviedb.org/movie/1574961?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1515692-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🟥 பத்தா (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1515
+ 692?language=ko-KR
+URL:https://www.themoviedb.org/movie/1515692?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1541477-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🟥 너\, 나\, 우리 (넷플릭스)
+DESCRIPTION:원제: Noi un po' meglio\n넷플릭스 · 영화\n\n자유로
+ 운 삶을 추구하는 여자와 단란한 가정을 꿈꾸는 남자. 
+ 상반된 배경과 가치관을 가진 두 사람이 아이를 입양하
+ 기로 결심하면서\, 두 사람의 사랑도 시험에 들게 된다.\
+ n\nhttps://www.themoviedb.org/movie/1541477?language=ko-KR
+URL:https://www.themoviedb.org/movie/1541477?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1756307-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 SCTV: 듣도 보도 못한 역대 최고의 쇼 (넷플릭스)
+DESCRIPTION:원제: SCTV: The Greatest Show You've Never Heard Of\n넷플
+ 릭스 · 영화\n\n전설적인 《SCTV》 출연진이 다큐멘터리
+ 로 다시 뭉친다. 작지만 패기 있는 캐나다 스케치 코미
+ 디 쇼가 코미디 역사를 새로 쓰기까지\, 그 여정을 유쾌
+ 하고 진솔하게 돌아본다.\n\nhttps://www.themoviedb.org/movie/1756
+ 307?language=ko-KR
+URL:https://www.themoviedb.org/movie/1756307?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1811964-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 SI Yugandhar (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1811
+ 964?language=ko-KR
+URL:https://www.themoviedb.org/movie/1811964?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1653554-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 The Birthday Gift (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1653
+ 554?language=ko-KR
+URL:https://www.themoviedb.org/movie/1653554?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1428990-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 This Is Not a Test (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1428
+ 990?language=ko-KR
+URL:https://www.themoviedb.org/movie/1428990?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1395215-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 சிக்மா (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1395
+ 215?language=ko-KR
+URL:https://www.themoviedb.org/movie/1395215?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1261763-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 డోంట్ ట్రబుల్ ద ట్రబుల
+ ్ (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1261
+ 763?language=ko-KR
+URL:https://www.themoviedb.org/movie/1261763?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1290035-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 അവറാച്ചൻ & Sons (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1290
+ 035?language=ko-KR
+URL:https://www.themoviedb.org/movie/1290035?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1802464-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 달콤한 무언가 (넷플릭스)
+DESCRIPTION:원제: मीठे में क्या है\n넷플릭
+ 스 · 영화\n\n한 젊은 남자가 디왈리를 맞아 가족들과 즐
+ 거운 시간을 보내며 아내를 잃은 슬픔을 달랜다. 하지만
+  여동생이 가족 몰래 결혼했다는 사실을 밝히면서 온 가
+ 족이 혼란에 빠진다.\n\nhttps://www.themoviedb.org/movie/1802464?la
+ nguage=ko-KR
+URL:https://www.themoviedb.org/movie/1802464?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1789549-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 버스데이 기프트 (넷플릭스)
+DESCRIPTION:원제: Das Geschenk\n넷플릭스 · 영화\n\n완벽하게 
+ 계획된 아이의 생일 파티. 하지만 애매한 선물과 통제 
+ 불능의 손님들이 만나며 세계관에 대한 격렬한 논쟁이 
+ 시작되고\, 가족 간의 애증과 유쾌한 대혼란 속에서 생
+ 일 파티는 점점 산으로 간다.\n\nhttps://www.themoviedb.org/movie
+ /1789549?language=ko-KR
+URL:https://www.themoviedb.org/movie/1789549?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1571955-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🟥 컬리전 코스 (넷플릭스)
+DESCRIPTION:원제: Colisión\n넷플릭스 · 영화\n\n경제 위기가 
+ 한창이던 시절\, 한 무리의 강도단이 마드리드의 한 은
+ 행을 점거하면서 예측 불가능한 사건들이 연쇄적으로 
+ 터져 나온다. 처음에는 평범한 강도처럼 보였던 사건은\
+ , 점점 속임수와 공포\, 생존을 건 게임으로 변해 간다. 
+ 모든 선택이 운명을 가르고\, 모든 행동 뒤에는 숨겨진 
+ 의도가 있다. 지금 모든 관련자는 탈출하려는 것이다. 
+ 감옥보다 더 큰 무언가로부터.\n\nhttps://www.themoviedb.org/mov
+ ie/1571955?language=ko-KR
+URL:https://www.themoviedb.org/movie/1571955?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1760311-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🟥 Barbie in the Nutcracker (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1760
+ 311?language=ko-KR
+URL:https://www.themoviedb.org/movie/1760311?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-505262-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🟥 나의 히어로 아카데미아 더 무비: 두 명의 히어
+ 로 (넷플릭스)
+DESCRIPTION:원제: 僕のヒーローアカデミア THE MOVIE ～2人の
+ 英雄～\n넷플릭스 · 영화\n\n모두가 ‘개성’이라는 초
+ 능력을 가진 세계\, 여기에 ‘무개성’의 소년이 있었다
+ ! 하지만 소년은 ‘개성’ 대신 히어로가 될 조건을 가
+ 지고 있었는데… NO.1 히어로 ‘올마이트’의 뒤를 잇는 
+ 새로운 영웅 탄생! 개성이 없어도\, 넌 세상을 빛낼 히어
+ 로가 될 수 있다! 5월 모두 다같이 입학~!\n\nhttps://www.themo
+ viedb.org/movie/505262?language=ko-KR
+URL:https://www.themoviedb.org/movie/505262?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-592350-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🟥 나의 히어로 아카데미아 더 무비: 히어로즈 라
+ 이징 (넷플릭스)
+DESCRIPTION:원제: 僕のヒーローアカデミア THE MOVIE ヒーロ
+ ーズ：ライジング\n넷플릭스 · 영화\n\n눈이 계속 내리
+ 는 겨울 어느 밤\, 히어로 사회를 파괴하려고 계획하는 
+ 시가라키 토무라가 인솔하는 빌런 연합과 그 움직임을 
+ 사전에 포착한 히어로들의 전투가 전개되는 가운데\, 남
+ 모르게 조용히 꿈틀거리는 "뭔가"가 일어나고\, 그 자리
+ 를 떠났다. 마침 이즈쿠 일행의 유에이 고교 히어로과 1
+ 학년 A반이 은퇴한 No.1 히어로 올마이트의 뒤를 이어 "차
+ 세대 영웅 육성 프로젝트"의 일환으로 학급 전원에서 기
+ 간 한정의 교외 히어로 활동을 위해 일본의 훨씬 남쪽에
+  위치한 외딴 섬 "나부 섬"을 찾았다. 얼마 전 큰 사건이 
+ 일어나지 않았던 평화로운 섬에서 이들은 주재 영웅으
+ 로서 섬사람들의 생활을 도우며 분주했고\, 그러면서도 
+ 한가한 시간을 보내고 있었다. 그러나 그 정적을 부수듯
+ 이\, 갑자기 빌런들이 나부 섬을 덮쳐\, 차례차례로 섬의
+  시설을 파괴해 간다. 그들을 지휘하는 것은\, "나인". 그
+ 날 밤\, 눈을 뜬 "뭔가"그 자체였다. 이즈쿠와 바쿠고 등
+ 의 1학년 A반의 멤버는 힘을 모아 빌런에 맞선다! 과연 
+ 섬을 덮치는 나인의 목적이란!? 그리고 이즈쿠 일행의 1
+ 학년 A반의 "뉴 히어로"들은 이 가장 흉악한 빌런으로부
+ 터 섬의 사람들을 지킬 수 있을까!?\n\nhttps://www.themoviedb.o
+ rg/movie/592350?language=ko-KR
+URL:https://www.themoviedb.org/movie/592350?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1206617-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🟥 못 말리는 악동들의 특별한 성탄극 (넷플릭스)
+DESCRIPTION:원제: The Best Christmas Pageant Ever\n넷플릭스 · 영화
+ \n\n한 엄마가 굳은 결심으로 교회 성탄극을 맡는다. 말
+ 썽꾸러기 아이 여섯이 보수적인 마을 주민들에게 크리
+ 스마스의 진정한 의미를 일깨워 줄 수 있도록.\n\nhttps://w
+ ww.themoviedb.org/movie/1206617?language=ko-KR
+URL:https://www.themoviedb.org/movie/1206617?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-939243-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🟥 수퍼 소닉 3 (넷플릭스)
+DESCRIPTION:원제: Sonic the Hedgehog 3\n넷플릭스 · 영화\n\n너클
+ 즈\, 테일즈와 함께 평화로운 일상을 보내던 초특급 히
+ 어로 소닉. 연구 시설에 50년간 잠들어 있던 사상 최강의
+  비밀 병기 "섀도우"가 탈주하자\, 세계 수호 통합 부대(
+ 약칭 세.수.통)에 의해 극비 소집된다. 소중한 것을 잃은
+  분노와 복수심에 불타는 섀도우는 소닉의 초고속 스피
+ 드와 너클즈의 최강 펀치를 단 단숨에 제압해버린다. 세
+ 상을 지배하려는 닥터 로보트닉과 그의 할아버지 제럴
+ 드 박사는 섀도우의 엄청난 힘 카오스 에너지를 이용해 
+ 인류를 정복하려고 하는데…\n\nhttps://www.themoviedb.org/movie
+ /939243?language=ko-KR
+URL:https://www.themoviedb.org/movie/939243?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-574475-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🟥 파이널 데스티네이션: 블러드라인 (넷플릭스)
+DESCRIPTION:원제: Final Destination Bloodlines\n넷플릭스 · 영화\n\
+ n끝없는 악몽에 시달리던 스테파니는 그 원인을 찾던 중
+  집안 대대로 내려오는 죽음의 저주와 그 실체를 알게 
+ 된다. 놀랍게도\, 죽음의 순서가 자신의 가족에게 이어
+ 졌음을 알게 되는데...  이제\, 다음 차례는 누구?\n\nhttps:
+ //www.themoviedb.org/movie/574475?language=ko-KR
+URL:https://www.themoviedb.org/movie/574475?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-49051-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🟥 호빗: 뜻밖의 여정 (넷플릭스)
+DESCRIPTION:원제: The Hobbit: An Unexpected Journey\n넷플릭스 · 영
+ 화\n\n호빗족 빌보 배긴스는 어느 날 찾아온 회색의 마법
+ 사 간달프로부터 뜻밖의 제안을 받는다. 오래 전 난쟁이
+ 족의 영토였지만 무시무시한 용 스마우그에게 빼앗겨 
+ 지금은 황무지로 변한 동쪽의 외로운 산 에레보르 왕국
+ 을 되찾기 위해 함께 떠나자는 것. 빌보는 전설의 용사 
+ 소린이 이끄는 13명의 난쟁이족과 함께 위험 가득한 여
+ 정에 오른다. 외로운 산에 가기 위해서 반드시 거쳐야 
+ 하는 고블린 동굴에서 일행과 떨어져 헤매던 빌보는 그
+ 의 일생을 뒤바꿔놓는 존재인 골룸과 마주치게 되고\, 
+ 골룸과의 수수께끼 대결 중에 대단한 힘을 지닌 골룸의 
+ 보물 절대반지를 얻게 되는데...\n\nhttps://www.themoviedb.org/m
+ ovie/49051?language=ko-KR
+URL:https://www.themoviedb.org/movie/49051?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-57158-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🟥 호빗: 스마우그의 폐허 (넷플릭스)
+DESCRIPTION:원제: The Hobbit: The Desolation of Smaug\n넷플릭스 · 
+ 영화\n\n사나운 용 스마우그가 빼앗아간 동쪽의 외로운 
+ 산 에레보르 왕국을 되찾기 위해 뜻하지 않은 여정을 떠
+ 나게 된 호빗 빌보 배긴스와 간달프\, 그리고 난쟁이족 
+ 왕족의 후예 소린이 이끄는 13명의 난쟁이족. 원정대는 
+ 외로운 산으로 가는 길에 어둠의 숲에서 모습을 자유자
+ 재로 바꾸는 베오른과 거대한 거미떼를 만나고\, 난쟁이
+ 들에게 적대적인 엘프족에게 잡혔다가 도망쳐 호수마을
+ 을 지나는 등 다양한 모험을 하게 된다. 그리고 마침내 
+ 지금껏 만났던 그 어떤 존재보다도 위험하고 모두의 용
+ 기와 우정\, 지혜의 한계를 시험에 들게 한 용 스마우그
+ 와 맞닥뜨리게 되는데...\n\nhttps://www.themoviedb.org/movie/57158
+ ?language=ko-KR
+URL:https://www.themoviedb.org/movie/57158?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1257147-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🟥 나의 베스트 프렌드 (넷플릭스)
+DESCRIPTION:원제: Minha Melhor Amiga\n넷플릭스 · 영화\n\n빈 둥
+ 지 증후군을 겪고 있는 두 절친. 십 대 딸들을 따라 포르
+ 투갈로 향하고\, 그곳에서 사랑을 찾고 즐거움을 만끽하
+ 며 우정의 새로운 의미를 발견한다.\n\nhttps://www.themoviedb.
+ org/movie/1257147?language=ko-KR
+URL:https://www.themoviedb.org/movie/1257147?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-953535-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🟥 심장소리 (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\n여덟 살 철이는 등교를 하지
+ 만 집에 홀로 남은 채 우울증을 앓고 있는 엄마가 잘못
+ 될까 무서워 수업 도중 집으로 달려간다.\n\nhttps://www.them
+ oviedb.org/movie/953535?language=ko-KR
+URL:https://www.themoviedb.org/movie/953535?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1804941-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🟥 마이크 타이슨: 마이크가 돌아왔다 (넷플릭스)
+DESCRIPTION:원제: Mike Tyson: Return of the Mike\n넷플릭스 · 영화\
+ n\n복싱의 전설 마이크 타이슨이 무대 위에서 펼치는 1인
+  스탠드업 코미디쇼. 파란만장한 인생 이야기와 거침없
+ 는 생각들을 필터 없는 입담으로 쏟아내며\, 그 어느 때
+ 보다 솔직하고 유쾌한 모습을 선보인다.\n\nhttps://www.themo
+ viedb.org/movie/1804941?language=ko-KR
+URL:https://www.themoviedb.org/movie/1804941?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1570488-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🟥 A Dog's Perfect Christmas (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1570
+ 488?language=ko-KR
+URL:https://www.themoviedb.org/movie/1570488?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-464052-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🟥 원더 우먼 1984 (넷플릭스)
+DESCRIPTION:원제: Wonder Woman 1984\n넷플릭스 · 영화\n\n사랑의 
+ 힘으로 시련을 딛고 진정한 슈퍼히어로로 거듭난 원더 
+ 우먼 다이애나 프린스는 고고학자로서 인간들 사이에서
+  조용히 살고 있다. 다이애나의 마음 한편엔 세상을 떠
+ 난 연인 스티브 트레버의 빈자리가 여전하다. 그녀의 주
+ 변이 어수선해지기 시작한 건 동료 바바라가 관리 중이
+ 던 고대 유물을 수상한 석유 부자 맥스 로드에게 맡기고
+ 서부터. 사람들의 소원을 들어주는 대가로 그들에게서 
+ 가장 소중한 것을 앗아가는 빌런이 세상을 어지럽히기 
+ 시작하고\, 다이애나의 앞엔 거짓말처럼 죽었던 스티브
+ 가 나타나는데...\n\nhttps://www.themoviedb.org/movie/464052?language
+ =ko-KR
+URL:https://www.themoviedb.org/movie/464052?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1341137-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🟥 위대한 각성 (넷플릭스)
+DESCRIPTION:원제: A Great Awakening\n넷플릭스 · 영화\n\n위대한 
+ 각성은 조지 휫필드와 벤저민 프랭클린의 뜻밖의 우정
+ 을 따라간다.\n\nhttps://www.themoviedb.org/movie/1341137?language=ko-
+ KR
+URL:https://www.themoviedb.org/movie/1341137?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-958196-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🟥 고립된 남자 (넷플릭스)
+DESCRIPTION:원제: Inside\n넷플릭스 · 영화\n\n하이 테크 예술
+ 품 도둑 니모는 예기치 못한 사고로 뉴욕 펜트하우스에 
+ 갇힌다. 기대와는 달리 아무도 그를 도우러 오지 않고 
+ 탈출구는 없다. 집은 고가의 예술 작품들로 가득하지만\
+ , 정작 유용한 물건은 없다. 생존을 위한 니모의 고분분
+ 투는 계속되고\, 사물의 값이나 시간의 의미 등 우리가 
+ 알고 있는 가치들은 송두리째 무너진다. 팬데믹 상황의 
+ 고립에 대한 확장된 고민을 담고 있는 영화로\, 러닝타
+ 임 전체를 힘있게 끌어가는 윌렘 대포의 명연이 놀랍다.
+ \n\nhttps://www.themoviedb.org/movie/958196?language=ko-KR
+URL:https://www.themoviedb.org/movie/958196?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1954-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🟥 나비 효과 (넷플릭스)
+DESCRIPTION:원제: The Butterfly Effect\n넷플릭스 · 영화\n\n끔찍
+ 한 어린 시절의 상처를 지닌 에반. 그에게 남은 것은 기
+ 억의 파편들과 상처입은 친구들. 에반은 과거의 기억을 
+ 되살리기 위해 정신과 치료를 받으며 어릴 적부터 매일
+ 매일 꼼꼼하게 일기를 쓴다.  대학생이 된 어느 날\, 예
+ 전의 일기를 꺼내 읽다가 일기장을 통해 시공간 이동의 
+ 통로를 발견하게 되는 에반. 그것을 통해 과거로 되돌아
+ 가 미치도록 지워버리고 싶은 기억\, 어린 시절의 상처 
+ 때문에 스스로 목숨을 끊은 첫사랑 켈리와의 돌이키고 
+ 싶은 과거\, 그리고 사랑하는 친구들에게 닥친 끔찍한 
+ 불행들을 고쳐 나간다.  그러나 과거를 바꿀수록 더욱 
+ 충격적인 현실만이 그를 기다릴 뿐\, 현재는 전혀 예상
+ 치 못한 파국으로 치닫는데 과연 그는 과거를 바꿔 그가
+  원하는 현재를 이룰 수 있을 것인가? 아니면 불행한 현
+ 재에 영원히 갇혀버릴 것인가?\n\nhttps://www.themoviedb.org/mov
+ ie/1954?language=ko-KR
+URL:https://www.themoviedb.org/movie/1954?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-9759-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🟥 셀룰러 (넷플릭스)
+DESCRIPTION:원제: Cellular\n넷플릭스 · 영화\n\n고등학교 과학
+ 교사인 제시카 마틴의 평화로운 삶은 정체불명의 괴한 
+ 다섯명에 의해 집에서 납치당하면서 산산조각난다. 그
+ 들의 동기도 모르는 상태에서\, 어딘지 알수 없는 장소
+ 로 끌려가 갇힌 제시카는 박살난 전화기를 조합\, 연결
+ 되는 아무 번호에나 도움을 청하고자 한다. 이 전화를 
+ 우연히 핸드폰으로 받게 된 이는 근심거리라고는 없는 
+ 청년\, 라이언. 그는 곧 제시카뿐만 아니라 아직 납치되
+ 지 않은 그녀의 가족들의 생명까지도 오직 자신에게 달
+ 려있다는 사실을 깨닫고\, 구출을 결심한다. 하지만\, 문
+ 제는 제시카 조차도 자신의 위치를 모르며\, 핸드폰 배
+ 터리도 영구적이지 않다는 점이다. 과연 그는 어떻게 그
+ 녀를 구할 수 있을 것인가?\n\nhttps://www.themoviedb.org/movie/97
+ 59?language=ko-KR
+URL:https://www.themoviedb.org/movie/9759?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-27205-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🟥 인셉션 (넷플릭스)
+DESCRIPTION:원제: Inception\n넷플릭스 · 영화\n\n타인의 꿈에 
+ 들어가 생각을 훔치는 특수 보안요원 코브. 그를 이용해
+  라이벌 기업의 정보를 빼내고자 하는 사이토는 코브에
+ 게 생각을 훔치는 것이 아닌\, 생각을 심는 ‘인셉션’ 
+ 작전을 제안한다. 성공 조건으로 국제적인 수배자가 되
+ 어있는 코브의 신분을 바꿔주겠다는 거부할 수 없는 제
+ 안을 하고\, 사랑하는 아이들에게 돌아가기 위해 그 제
+ 안을 받아들인다. 최강의 팀을 구성\, 표적인 피셔에게 
+ 접근해서 ‘인셉션’ 작전을 실행하지만 예기치 못한 
+ 사건들과 마주하게 되는데… 꿈 VS 현실! 시간\, 규칙\, 
+ 타이밍 모든 것이 완벽해야만 하는\, 단 한 번도 성공한 
+ 적 없는 ‘인셉션’ 작전이 시작된다!\n\nhttps://www.themovie
+ db.org/movie/27205?language=ko-KR
+URL:https://www.themoviedb.org/movie/27205?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1483525-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🟥 가능한 사랑 (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\n해고 노동자와 그의 아내 그
+ 리고 다큐멘터리 감독과 그녀의 남편. 두 부부가 다큐멘
+ 터리 제작을 계기로 만나\, 서로의 다른 삶과 숨은 욕망
+ 을 마주한다.\n\nhttps://www.themoviedb.org/movie/1483525?language=ko-
+ KR
+URL:https://www.themoviedb.org/movie/1483525?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-296096-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🟥 미 비포 유 (넷플릭스)
+DESCRIPTION:원제: Me Before You\n넷플릭스 · 영화\n\n6년간 일하
+ 던 카페가 폐업하면서 하루아침에 일자리를 잃은 루이
+ 자(에밀리아 클라크). 그녀는 새 직장을 찾던 중 집에서 
+ 가깝고 보수도 좋은 간병인 일을 찾게 되고\, 면접을 본 
+ 그날 바로 채용이 결정된다. 하지만 루이자가 간병해야 
+ 할 윌(샘 클라플린)은 2년 전 사고로 전신마비 환자가 된
+  자신을 받아들이지 못하고 남에게 쌀쌀맞기 일쑤다. 어
+ 느 날 윌이 루이자에게 유독 심한 독설을 퍼붓자 루이자
+ 는 참지 못해 그의 태도를 따끔하게 지적하고\, 그때부
+ 터 윌은 그녀에게 호감을 느끼기 시작한다. 두 사람이 
+ 점점 가까워지던 사이\, 루이자는 윌이 존엄사를 계획하
+ 고 있음을 알게 되는데...\n\nhttps://www.themoviedb.org/movie/2960
+ 96?language=ko-KR
+URL:https://www.themoviedb.org/movie/296096?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1329471-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🟥 캐롤라이나 캐롤라인 (넷플릭스)
+DESCRIPTION:원제: Carolina Caroline\n넷플릭스 · 영화\n\n작은 마
+ 을을 떠나고 싶어 안달이 난 한 젊은 여성이 매력적인 
+ 사기꾼과 함께 가출하여\, 오랫동안 연락이 끊긴 어머니
+ 를 찾기 위해 남동부 지역을 가로지르는 범죄와 열정이 
+ 뒤섞인 여정을 시작한다.\n\nhttps://www.themoviedb.org/movie/1329
+ 471?language=ko-KR
+URL:https://www.themoviedb.org/movie/1329471?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1476682-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🟥 게일의 원나잇 패스 (넷플릭스)
+DESCRIPTION:원제: Gail Daughtry and the Celebrity Sex Pass\n넷플릭스 
+ · 영화\n\n작은 마을에서 미용사로 일하는 게일 도트리
+ 는 헌신적인 고등학교 시절 연인 톰과 약혼한 사이이다.
+  하지만 책 사인회에 함께 갔다가 톰이 자신의 ‘원나잇
+  패스(유명인과 하룻밤을 보내도 용인하기로 한 약속)’
+  대상과 실제로 만나 하룻밤을 보내면서\, 게일의 삶은 
+ 예상치 못한 방향으로 흘러간다. 배신감에 큰 충격을 받
+ 은 게일은 충동적으로 친구 오토와 함께 로스앤젤레스
+ 로 떠난다. 그곳에서 만난 한 점술가는 결혼을 지키기 
+ 위해서는 게일 역시 자신의 ‘원나잇 패스’ 대상인 배
+ 우 존 햄과 관계를 맺어야만 두 사람의 균형이 맞춰질 
+ 것이라고 말한다. 이후 게일과 오토는 존 햄을 찾아 할
+ 리우드를 누비는 좌충우돌 여정을 시작한다. 두 사람은 
+ 한 연예기획사 직원\, 파파라치 사진기자\, 그리고 배우 
+ 존 슬래터리와 힘을 합쳐 존 햄의 행방을 쫓는다. 그 과
+ 정에서 수많은 유명인들과 마주치고\, 정체불명의 이탈
+ 리아 암살자들에게 쫓기는 등 예기치 못한 사건에 휘말
+ 리며\, 존 햄에게 점점 가까워져 간다.\n\nhttps://www.themovie
+ db.org/movie/1476682?language=ko-KR
+URL:https://www.themoviedb.org/movie/1476682?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-21355-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 올 더 프리티 호스 (넷플릭스)
+DESCRIPTION:원제: All the Pretty Horses\n넷플릭스 · 영화\n\n텍사
+ 스 주에 사는 콜은 일생을 과수원에서 농작물을 팔아 생
+ 계를 이쥬하던 어머니가 돌아가시자 죽마고우인 롤린스
+ 와 함께 그동안 꿈꿔왔던 모험을 시작한다. 여행 도중 
+ 콜은 멕시코 국경에서 카우보이의 삶에 매력을 느끼기
+ 도 하고 우연히 만난 변덕스러운 성격을 지닌 소년이 한
+  거짓말 때문에 곤경에 빠지기도 한다.\n\nhttps://www.themovi
+ edb.org/movie/21355?language=ko-KR
+URL:https://www.themoviedb.org/movie/21355?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1367642-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🟥 리마인더스 오브 힘 (넷플릭스)
+DESCRIPTION:원제: Reminders of Him\n넷플릭스 · 영화\n\n한순간
+ 의 비극적인 사고로 남자친구 ‘스코티’와 모든 것을 
+ 잃은 ‘케나 로완’. 수년 간의 수감 생활을 마치고 출
+ 소한 그녀는\, 수감 도중 출산했지만 한 번도 품에 안아
+ 보지 못한 딸 ‘디엠’을 만나기 위해 고향으로 돌아온
+ 다. 하지만 사고로 아들을 잃은 ‘스코티’의 부모는 ‘
+ 케나’를 여전히 모든 비극의 원인으로 여기며 냉정하
+ 게 외면한다. 그런 그녀 앞에 ‘스코티’의 오랜 친구이
+ 자 ‘디엠’을 돌보고 있는 ‘레저’가 나타나고\, 두 
+ 사람은 함께 시간을 보내며 점차 가까워진다. ‘레저’
+ 를 향한 감정이 깊어지면서 혼란에 빠진 ‘케나’는 이
+ 제 자신이 내린 선택과 과거의 실수를 진정으로 용서받
+ 을 방법을 찾아야만 하는데…\n\nhttps://www.themoviedb.org/movi
+ e/1367642?language=ko-KR
+URL:https://www.themoviedb.org/movie/1367642?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1666787-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🟥 리처드 애버던 (넷플릭스)
+DESCRIPTION:원제: Avedon\n넷플릭스 · 영화\n\n지금까지 공개
+ 되지 않았던 사진과 자료 화면\, 가까이에서 함께 작업
+ 한 이들의 인터뷰를 통해 리처드 애버던의 삶과 유산을 
+ 담아낸 다큐멘터리.\n\nhttps://www.themoviedb.org/movie/1666787?lan
+ guage=ko-KR
+URL:https://www.themoviedb.org/movie/1666787?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1616687-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🟥 Serangan Balik (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1616
+ 687?language=ko-KR
+URL:https://www.themoviedb.org/movie/1616687?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1302916-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🟥 하트 아이즈 (넷플릭스)
+DESCRIPTION:원제: Heart Eyes\n넷플릭스 · 영화\n\n연인들을 상
+ 대로 잔혹한 살인 행각을 저지르는 '하트 아이즈 살인마
+ '에게 연인으로 오해받은 한 커플이 생사를 넘나드는 고
+ 비를 넘기고 범인을 밝혀낸다는 줄거리\n\nhttps://www.themov
+ iedb.org/movie/1302916?language=ko-KR
+URL:https://www.themoviedb.org/movie/1302916?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-11287-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🟥 그들만의 리그 (넷플릭스)
+DESCRIPTION:원제: A League of Their Own\n넷플릭스 · 영화\n\n1934
+ 년 미국 프로야구는 선수들이 전쟁에 참전하자 고육지
+ 책으로 각지에서 여자 야구선수들을 선발하여 6개의 여
+ 자 프로야구팀을 만든다. 우연히 스카웃 담당자의 눈에 
+ 띄여 입단하게 된 도티와 키트 자매는 복숭아팀에 배속
+ 되어 고된 훈련을 받는다. 야구선수가 됐다는 기쁨에 들
+ 뜬 선수들이 열심히 훈련과 경기에 임하자 매일 술만 마
+ 시던 듀간 감독도 선수들의 열성에 감동\, 열과 성을 다
+ 해 선수들을 지도하고 관중들도 차츰 여자야구에 흥미
+ 를 갖기 시작한다. 그러던중 포수인 도티가 두각을 나타
+ 내자 동생 키트는 질투를 느껴 사사건건 언니에게 트집
+ 을 잡는다. 그로인해 결국 키트는 라이벌팀 라신느 벨스
+ 로 이적되고 월드시리즈에 진출한 복숭아팀은 라신느 
+ 벨스와 결승전에서 맞붙게 된다.\n\nhttps://www.themoviedb.org/
+ movie/11287?language=ko-KR
+URL:https://www.themoviedb.org/movie/11287?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1543469-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🟥 하트랜드 (넷플릭스)
+DESCRIPTION:원제: Heartland\n넷플릭스 · 영화\n\n한때 컨트리 
+ 음악계의 슈퍼스타였던 미스티 존스. 은둔 생활을 하던 
+ 그녀는 떠오르는 신예 컨트리 가수인 조카가 실종되자 
+ 사건 조사에 나서고\, 그 과정에서 자신의 과거와 내슈
+ 빌의 어두운 이면을 마주한다. 사건을 파헤칠수록 수상
+ 쩍은 민낯을 드러내는 내슈빌. 그곳에선 모두\, 심지어 
+ 미스티마저도\, 겉으로 보이는 그대로가 아니다.\n\nhttps:
+ //www.themoviedb.org/movie/1543469?language=ko-KR
+URL:https://www.themoviedb.org/movie/1543469?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1211472-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:🟥 9월 5일: 위험한 특종 (넷플릭스)
+DESCRIPTION:원제: September 5\n넷플릭스 · 영화\n\n1972년 뮌헨\,
+  최초로 올림픽 생중계에 도전한 ABC 방송국 스포츠팀은 
+ 무장한 테러리스트들이 선수촌에 난입해 인질극을 벌이
+ 고 있음을 알고 이를 생중계로 보도한다. 솟구치는 시청
+ 률과 10억 명의 시청자까지\, 생방송으로 내보내는 단독 
+ 특종에 전 세계의 이목이 집중된 가운데\, 그들은 테러
+ 리스트들 역시 자신들의 방송을 보고 있음을 알게 되는
+ 데…\n\nhttps://www.themoviedb.org/movie/1211472?language=ko-KR
+URL:https://www.themoviedb.org/movie/1211472?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1339713-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🟥 옵세션 (넷플릭스)
+DESCRIPTION:원제: Obsession\n넷플릭스 · 영화\n\n니키를 짝사
+ 랑하던 베어는 골동품 상점에서 구입한 원 위시 윌로우
+ 에 니키가 자신을 가장 사랑하게 해달라고 소원을 빈다.
+  그날 밤\, 두 사람은 연인이 되지만 벗어날 수 없는 끔
+ 찍한 일과 마주하게 되는데...\n\nhttps://www.themoviedb.org/movi
+ e/1339713?language=ko-KR
+URL:https://www.themoviedb.org/movie/1339713?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-10292-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🟥 캠퍼스 레전드 3 (넷플릭스)
+DESCRIPTION:원제: Urban Legends: Bloody Mary\n넷플릭스 · 영화\n\n
+ 사만다와 친구들은 30년 전 학교 파티 때 사라진 블러디 
+ 메리 이야기에 정신이 없다. 결국 괴담처럼 장난스럽게 
+ 블러디 메리를 3번 부르게 되고 세 친구 모두 흔적도 없
+ 이 사라진다. 몇일 후 돌아온 그들은 심한 정신적 충격
+ 으로 서로 서먹해 진다.  한편 이들을 마취해 외딴곳에 
+ 가둬두었던 풋볼 팀 벅의 패거리들이 차례차례 끔찍하
+ 게 살해당하기 시작한다. 사만다는 자신을 의심하는 주
+ 위의 눈총을 받으며 이 모든 것이 30년 전 벌어진 블러디
+  메리의 저주임을 확신한다. 사만다와 동생 데이빗은 더
+  이상의 살인을 막고 저주를 풀고자 블러디 메리의 시신
+ 을 찾아 나서는데...\n\nhttps://www.themoviedb.org/movie/10292?langu
+ age=ko-KR
+URL:https://www.themoviedb.org/movie/10292?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1590613-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🟥 Cerita Lila (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1590
+ 613?language=ko-KR
+URL:https://www.themoviedb.org/movie/1590613?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1551025-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🟥 스타의 보디가드 (넷플릭스)
+DESCRIPTION:원제: Guarding Stars\n넷플릭스 · 영화\n\n연말 동안
+  매력적인 액션 스타의 경호 업무를 맡게 된 원칙주의 
+ 철벽 경호원. 묘한 기류가 흐르는 두 사람의 만남 속에 
+ 비밀이 하나둘 드러나고\, 크리스마스는 생각보다 훨씬 
+ 복잡하게 꼬여만 간다.\n\nhttps://www.themoviedb.org/movie/1551025
+ ?language=ko-KR
+URL:https://www.themoviedb.org/movie/1551025?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1473148-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🟥 젠틀 몬스터 (넷플릭스)
+DESCRIPTION:원제: Gentle Monster\n넷플릭스 · 영화\n\n피아니스
+ 트 루시는 번아웃을 호소하는 남편을 위해 아들과 함께 
+ 교외로 이사한다. 평화로운 일상도 잠시\, 경찰이 들이
+ 닥쳐 남편 필립의 컴퓨터를 압수해간다. 아동 성착취물 
+ 소지 등의 혐의로 조사를 받게 된 필립은 사실을 부정하
+ 는 대신 변명을 늘어놓고\, 남편의 성범죄를 마주한 루
+ 시는 믿었던 세계가 붕괴되는 경험을 한다.\n\nhttps://www.t
+ hemoviedb.org/movie/1473148?language=ko-KR
+URL:https://www.themoviedb.org/movie/1473148?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-17339-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🟥 나바론 요새 2 (넷플릭스)
+DESCRIPTION:원제: Force 10 from Navarone\n넷플릭스 · 영화\n\n2차
+ 대전 중의 밀러와 멜러리는 독일군과 동맹국 이태리를 
+ 연결하던 다리를 파괴하기에 불가능했던 일을 지령 받
+ 는다. 이와 함께 나바론에서 멜러리를 배신한 레스코바
+ 를 제거하라는 명령을 받는다.\n\nhttps://www.themoviedb.org/mov
+ ie/17339?language=ko-KR
+URL:https://www.themoviedb.org/movie/17339?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-587807-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🟥 톰과 제리 (넷플릭스)
+DESCRIPTION:원제: Tom & Jerry\n넷플릭스 · 영화\n\n생쥐 제리는
+  성대한 결혼식이 열리게 될 뉴욕의 한 고급 호텔로 이
+ 사를 오게 되고\, 이벤트 플래너 카일라는 제리를 잡기 
+ 위해서 고양이 톰을 고용한다. 하지만 우당탕탕 사고뭉
+ 치들의 역대급 대소동은 카일라의 커리어는 물론 결혼
+ 식과 호텔까지도 위험에 빠뜨리게 되는데…\n\nhttps://www.
+ themoviedb.org/movie/587807?language=ko-KR
+URL:https://www.themoviedb.org/movie/587807?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1595124-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🟥 스텝스 (넷플릭스)
+DESCRIPTION:원제: Steps\n넷플릭스 · 영화\n\n신데렐라의 '못
+ 된' 의붓자매들에 대해 잘 안다고 생각한다면? 다시 생
+ 각해 보자! 릴리스(앨리 웡)는 오해 때문에 훔친 마법 지
+ 팡이로 왕실 무도회를 망쳤다는 누명을 쓰고\, 그 과정
+ 에서 실수로 자매 마고(스테퍼니 슈)를 개구리로 변하게
+  만든다. 그 틈을 타 왕국은 왕자에 집착하는 못된 여자
+ 의 손에 들어가고 만다. 이제 릴리스는 신데렐라와 의외
+ 로 매력적인 트롤과 함께 왕국을 구하고\, 어긋난 동화
+ 를 바로잡고\, 소위 악당이라 불리는 존재들조차 해피엔
+ 딩을 누릴 자격이 있음을 증명해야 한다.\n\nhttps://www.them
+ oviedb.org/movie/1595124?language=ko-KR
+URL:https://www.themoviedb.org/movie/1595124?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1458300-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🟥 모스키토 볼: 전장의 마지막 터치다운 (넷플릭
+ 스)
+DESCRIPTION:원제: The Mosquito Bowl\n넷플릭스 · 영화\n\n진주만 
+ 공습 이후 해병대에 자원입대한 미국 대학 미식축구 스
+ 타 네 명. 전쟁을 겪으며 전우애의 힘과 전쟁의 대가를 
+ 깨닫는다.\n\nhttps://www.themoviedb.org/movie/1458300?language=ko-KR
+URL:https://www.themoviedb.org/movie/1458300?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1506401-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🟥 El niño (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1506
+ 401?language=ko-KR
+URL:https://www.themoviedb.org/movie/1506401?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1480665-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🟥 콰지모도\, 파리의 영혼 (넷플릭스)
+DESCRIPTION:원제: Quasimodo\, l'âme de Paris\n넷플릭스 · 영화\n\n
+ 1830년 7월 혁명 전야의 파리를 무대로 한 영화. 빅토르 
+ 위고 작품의 상징적인 캐릭터 콰지모도의 모티브가 되
+ 었다는 실존 인물의 삶이 새롭게 그려진다. 콜레라가 도
+ 시 전체로 퍼져 나가는 가운데\, 그는 정치적 혼란과 이
+ 루어질 수 없는 사랑 사이에서 괴로워한다.\n\nhttps://www.t
+ hemoviedb.org/movie/1480665?language=ko-KR
+URL:https://www.themoviedb.org/movie/1480665?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1226863-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🟥 슈퍼 마리오 갤럭시 (넷플릭스)
+DESCRIPTION:원제: The Super Mario Galaxy Movie\n넷플릭스 · 영화\n\
+ n브루클린의 배관공에서 세계를 구한 히어로로 레벨업
+ 한 형제 ‘마리오’와 ‘루이지’는 모래 왕국에서 임
+ 무를 수행하던 중\, 길을 잃은 ‘요시’를 구출하며 특
+ 별한 우정을 쌓게 된다. 한편\, 무너진 ‘쿠파’ 가문의 
+ 명예를 되찾기 위해 악의 왕자 ‘쿠파주니어’는 은하
+ 계의 수호자이자 치코들의 엄마 ‘로젤리나’를 납치하
+ 고\, 버섯 왕국에 잡힌 아빠 ‘쿠파’를 되찾기 위해 왕
+ 국을 습격한다. 다시 찾아온 위기 속에서 마리오와 루이
+ 지\, 피치\, 키노피오 그리고 새로 합류한 요시까지 로젤
+ 리나도 구하고\, 쿠파주니어의 비범한 계획을 막기 위해
+  넓은 갤럭시로 뛰어들게 되는데…\n\nhttps://www.themoviedb.o
+ rg/movie/1226863?language=ko-KR
+URL:https://www.themoviedb.org/movie/1226863?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-5951-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🟥 제인 오스틴 북 클럽 (넷플릭스)
+DESCRIPTION:원제: The Jane Austen Book Club\n넷플릭스 · 영화\n\n
+ 어느날 다른 여자를 사랑하게 되었다며 이혼을 요구하
+ 는 남편때문에 우울증에 걸린 '실비아'를 위해\, 조셀린
+ 과 엘레그라\,베네뎃은 제인오스틴의 소설에 대한 북클
+ 럽을 만들게된다. 하지만 오스틴 대표작이 6권이기에 2
+ 명의 맴버가 더 필요한 상태. 그러던차에 우연히 만난 SF
+ 소설 매니아 그릭에게 조셀린은 북클럽에 들어오기를 
+ 권유하고\, 또한 극장에서 우연히 푸르디를 알게된 베네
+ 뎃 역시 제인 오스틴에 대해서 너무나 잘 알고 있는 그
+ 녀를 북클럽에 초대한다. 그렇게해서 만들어진 북클럽
+ 은 첫 모임에서 책에 대한 이야기를 하지만\, 각자 자신
+ 이 가지고 있는 고민들과 연결시켜 해석하기에 책속의 
+ 이야기와 인물들에 대한 상반된 의견들이 나오기 시작
+ 하는데... (mrsleep@naver.com)\n\nhttps://www.themoviedb.org/movie/5951?
+ language=ko-KR
+URL:https://www.themoviedb.org/movie/5951?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1318413-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🟥 프레셔 (넷플릭스)
+DESCRIPTION:원제: Pressure\n넷플릭스 · 영화\n\nD-데이 전 72시
+ 간 동안\, 자유 세계의 운명이 위태로운 가운데\, 드와이
+ 트 D. 아이젠하워 장군과 제임스 스태그 대위는 역사상 
+ 가장 대규모이자 가장 위험한 해상 상륙 작전을 감행할 
+ 것인지\, 아니면 전쟁에서 완전히 패배할 위험을 감수할
+  것인지라는 불가능한 선택의 기로에 서게 된다.\n\nhttps:
+ //www.themoviedb.org/movie/1318413?language=ko-KR
+URL:https://www.themoviedb.org/movie/1318413?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1422041-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🟥 블랙 볼 (넷플릭스)
+DESCRIPTION:원제: La bola negra\n넷플릭스 · 영화\n\n1932년과 193
+ 7년\, 그리고 2017년을 오가며 서로 연결된 세 게이 남성
+ 의 삶을 따라간다. 1932년에는 아버지의 뜻에 따라 지역 
+ 사교 클럽의 가입 심사대에 오르는 스무 살 청년이 있고
+ \, 1937년에는 내전의 한복판에서 비극적인 사랑이 피어
+ 오르며\, 2017년에는 이 모든 이야기를 뒤늦게 추적하는 
+ 한 인물의 여정이 이어진다.\n\nhttps://www.themoviedb.org/movie/
+ 1422041?language=ko-KR
+URL:https://www.themoviedb.org/movie/1422041?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1616675-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:🟥 Tajemnice (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1616
+ 675?language=ko-KR
+URL:https://www.themoviedb.org/movie/1616675?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-947502-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🟥 우리\, 파도처럼 (넷플릭스)
+DESCRIPTION:원제: In Waves\n넷플릭스 · 영화\n\n햇살 가득한 
+ 남부 캘리포니아의 서핑 문화 속에서 사랑에 빠진 두 십
+  대. 갑작스레 비극적인 운명이 찾아오지만\, 친구들과
+ 의 우정과 바다에서 시련을 극복할 힘을 얻는다.\n\nhttps:
+ //www.themoviedb.org/movie/947502?language=ko-KR
+URL:https://www.themoviedb.org/movie/947502?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-940009-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🟥 레이 건 (넷플릭스)
+DESCRIPTION:원제: Ray Gunn\n넷플릭스 · 영화\n\n기계와 로봇이
+  탐정업을 주도하는 시대에 보기 드문 인간 사립탐정 레
+ 이 건은 외계인 조수 아이라와 함께 인기 스타 비너스 
+ 노바가 얽힌 의문의 살인 사건을 파헤친다.\n\nhttps://www.t
+ hemoviedb.org/movie/940009?language=ko-KR
+URL:https://www.themoviedb.org/movie/940009?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1457866-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🟥 클리프 부스의 더 뻔뻔한 모험 (넷플릭스)
+DESCRIPTION:원제: THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH\n넷플릭스
+  · 영화\n\n동화 같은 이야기는 이제 끝났다. 로스앤젤레
+ 스는 더 이상 예전처럼 히피를 처치하는 스턴트맨을 필
+ 요로 하지 않는다. 하지만 할리우드에는 언제나 문제가 
+ 생기는 법. 그리고 그 문제들은 클리프처럼 독특하고 (
+ 때로는 법의 테두리를 넘나드는) 능력을 지닌 자만이 해
+ 결할 수 있다. 생계를 위해 바텐더나 영사 기사로 일하
+ 는 시간 외에\, 클리프 부스는 해결사로 활동하며 할리
+ 우드의 거물들\, 때때로 그다지 떳떳하지 못한 이들을 
+ 위해 뒷수습에 나선다. 탤런트 에이전트 캐런 크로스비(
+ 엘리자베스 데비키)에게서 전화를 받은 클리프는 호기
+ 심이 동한다. 캐런은 직접 스턴트를 소화하는 것으로 유
+ 명한 TV 슈퍼스타 찰리 피터스(스콧 칸)를 대신해 연락한
+  것. 찰리 주변 인물들을 만나본 클리프는 더욱 구미가 
+ 당기고 호기심을 느낀다. 뭔가 알고 있는 듯한 찰리의 
+ 아내 토니(칼라 구지노)부터 프로 미식축구 챔피언에서 
+ 스크린 스타로 변신한 로더릭 '핫 로드' 해리슨(야히아 
+ 압둘마틴 2세)\, 도시 곳곳에서 소동을 일으키는 정체불
+ 명의 갱스터 베르두스코 형제(맷 그루브와 JB 타데나)까
+ 지\, 흥미롭지 않을 수 없다. 이제 한때 동화였던 이야기
+ 는 범죄극으로 변모한다. 폭력과 야망\, 욕망을 한데 섞
+ 은 칵테일 같은 이야기. 오직 LA에서만 맛볼 수 있는 일
+ 이다.\n\nhttps://www.themoviedb.org/movie/1457866?language=ko-KR
+URL:https://www.themoviedb.org/movie/1457866?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:netflix-movie-1532610-netflix@release-calendar
+DTSTAMP:20261104T042350Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:🟥 잉크 (넷플릭스)
+DESCRIPTION:원제: Ink\n넷플릭스 · 영화\n\nhttps://www.themoviedb.o
+ rg/movie/1532610?language=ko-KR
+URL:https://www.themoviedb.org/movie/1532610?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
