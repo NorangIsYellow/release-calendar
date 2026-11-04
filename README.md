@@ -1,0 +1,83 @@
+# 개봉·공개 예정 캘린더
+
+국내 극장 개봉 예정작과 넷플릭스 · 디즈니+ · 쿠팡플레이 · 애플TV+ 공개 예정 **영화**를
+매일 아침 자동으로 모아서 애플 캘린더 구독 피드(.ics)로 만들어 주는 프로젝트예요.
+
+- 데이터: TMDB(The Movie Database) API
+- 갱신: GitHub Actions가 매일 06:17(KST)에 실행
+- 호스팅: GitHub Pages (무료)
+
+## 만들어지는 캘린더
+
+| 파일 | 내용 |
+|---|---|
+| `all.ics` | 전부 합친 캘린더 |
+| `movies.ics` | 🎬 극장 개봉작 |
+| `netflix.ics` | 🟥 넷플릭스 영화 |
+| `disney.ics` | 🟦 디즈니+ 영화 |
+| `coupang.ics` | 🟧 쿠팡플레이 영화 |
+| `appletv.ics` | ⬛ 애플TV+ 영화 |
+
+`all.ics` 하나만 구독해도 되고, 서비스별로 따로 구독하면 캘린더마다 색을 다르게 지정하거나 켜고 끌 수 있어요.
+
+## 설치 (PC에서 10분 정도)
+
+### 1. TMDB API 키 받기
+1. https://www.themoviedb.org 가입 → 로그인
+2. 프로필 → 설정 → **API** → API 키 신청 (개인용/Personal 선택)
+3. **API 키**(32자리) 또는 **API 읽기 액세스 토큰**(eyJ로 시작) 중 아무거나 복사
+
+### 2. GitHub 저장소 만들기
+1. GitHub에서 새 저장소 생성 (예: `release-calendar`) — **Public**으로 (무료 Pages는 공개 저장소만 가능)
+2. 이 폴더의 파일을 전부 업로드
+   - `.github/workflows/update.yml` 경로가 그대로 유지돼야 해요 (점으로 시작하는 폴더라 탐색기에서 숨겨져 보일 수 있음)
+   - 가장 쉬운 방법: 저장소 페이지 → **Add file → Upload files** → 압축 푼 폴더 안의 내용물을 통째로 드래그
+
+### 3. API 키 등록
+저장소 → **Settings → Secrets and variables → Actions → New repository secret**
+- Name: `TMDB_API_KEY`
+- Secret: 1단계에서 복사한 키
+
+### 4. 첫 실행
+저장소 → **Actions** 탭 → (처음이면 워크플로 활성화 버튼 클릭) → **Update release calendar** → **Run workflow**
+1~2분 뒤 초록 체크가 뜨면 `docs/` 폴더에 .ics 파일들이 생겨요.
+
+### 5. GitHub Pages 켜기
+저장소 → **Settings → Pages**
+- Source: **Deploy from a branch**
+- Branch: `main` / 폴더: `/docs` → Save
+
+몇 분 뒤 `https://<깃허브아이디>.github.io/<저장소이름>/` 주소가 열려요.
+
+### 6. 아이폰에서 구독
+아이폰 사파리로 위 주소를 열고 원하는 캘린더의 **구독** 버튼을 누르면 끝이에요.
+
+직접 추가하려면: **설정 → 캘린더 → 계정 → 계정 추가 → 기타 → 구독한 캘린더 추가** →
+`https://<깃허브아이디>.github.io/<저장소이름>/all.ics` 입력.
+
+> 맥에서 구독하면(캘린더 앱 → 파일 → 새로운 캘린더 구독) iCloud로 아이폰·아이패드에 함께 동기화돼요.
+> 이때 위치를 **iCloud**로 고르고, 자동 새로 고침을 **매일** 정도로 두세요.
+
+## 설정 바꾸기
+
+`fetch_releases.py` 맨 위 설정값을 수정하면 다음 실행부터 반영돼요.
+
+| 값 | 기본 | 설명 |
+|---|---|---|
+| `FUTURE_DAYS` | 120 | 앞으로 며칠치 일정을 가져올지 |
+| `PAST_DAYS` | 14 | 지난 작품을 며칠간 남겨둘지 |
+| `MIN_POPULARITY` | 1.0 | 극장 개봉작 인기도 하한. 5~10으로 올리면 주요작 위주, 0이면 전부 |
+| `STREAM_SCAN_PAGES` | 15 | OTT 영화 후보를 인기순으로 훑는 페이지 수 (페이지당 20편). 올리면 덜 알려진 작품까지 잡지만 실행이 느려져요 |
+
+OTT를 추가하려면 `SERVICES` 목록에 항목을 하나 더 넣으면 돼요 (예: 티빙 → `"match": ["tving", "티빙"]`).
+
+## 알아둘 점
+
+- **OTT는 영화만** 수집해요. 시리즈는 넣지 않아요.
+- OTT 영화는 TMDB 개봉일 데이터의 플랫폼 표기(예: "Netflix")와 한국 제공처 정보를 함께 봐서 판별해요. 한국 날짜가 있으면 그걸 쓰고, 없으면 해외 공개일을 써요(OTT 오리지널은 보통 전 세계 동시 공개).
+- 그래도 TMDB에 플랫폼 표기가 아직 안 된 작품은 공개 직전까지 안 잡힐 수 있어요. 쿠팡플레이처럼 국내 서비스는 TMDB 데이터가 상대적으로 적은 편이에요.
+- 개봉일이 미정이거나 TMDB에 아직 등록 안 된 작품은 안 나와요. 개봉일이 바뀌면 다음 갱신 때 캘린더에서도 자동으로 옮겨져요.
+- 애플 캘린더는 구독 캘린더를 자체 주기로 새로 고쳐서, 피드 갱신 후 반영까지 몇 시간 걸릴 수 있어요.
+- 공개 저장소에서 60일간 활동이 없으면 GitHub가 예약 실행을 멈추는데, 이 워크플로는 매일 커밋하므로 보통 해당되지 않아요. 혹시 멈추면 Actions 탭에서 다시 활성화하면 돼요.
+
+This product uses the TMDB API but is not endorsed or certified by TMDB.
