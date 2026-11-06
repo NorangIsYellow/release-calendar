@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:appletv-movie-1302904-appletv@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:⬛ 프랙티컬 매직: 새로운 챕터 (애플TV+)
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1384216-appletv@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:⬛ 도그 스타: 마지막 희망 (애플TV+)
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1058424-appletv@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:⬛ 호프 (애플TV+)
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1433367-appletv@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:⬛ 원나잇 온리 (애플TV+)
@@ -87,7 +87,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1050981-appletv@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:⬛ '나는\, 휴먼' - Being Heumann (애플TV+)
@@ -103,7 +103,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1798903-appletv@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:⬛ KILL/SAVE (애플TV+)
@@ -115,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1368337-appletv@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:⬛ 오디세이 (애플TV+)
@@ -133,23 +133,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1263337-appletv@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:⬛ 하트 오브 비스트 (애플TV+)
-DESCRIPTION:원제: Heart of the Beast\n애플TV+ · 영화\n\n비행기 
- 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부
- 대원 ‘제임스’와 그의 은퇴한 군견 ‘오딘’이 매 순
- 간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지
- 한 채 처절한 사투를 벌이는 어드벤처 생존 드라마\n\nhtt
- ps://www.themoviedb.org/movie/1263337?language=ko-KR
+DESCRIPTION:원제: Heart of the Beast\n애플TV+ · 영화\n\n특수부대
+ 에서 은퇴한 주임원사 제임스 벨몬트와 그의 군견 오딘.
+  전장에서 서로의 목숨을 지켜온 두 전우는 전쟁이 끝난
+  뒤에도 악몽과 트라우마에 시달린다. 둘은 수상비행기
+ 를 타고 알래스카의 외딴 호숫가를 찾아 잠시 고요한 시
+ 간을 보내지만\, 돌아오는 하늘길에서 비행기가 추락하
+ 면서 문명과 단절된 광활한 황야 한가운데에 고립되고 
+ 만다. 가장 가까운 사람의 흔적까지는 무려 93킬로미터. 
+ 부상당한 몸을 이끌고 구조를 향해 걸음을 내딛은 제임
+ 스와 오딘 앞에는 거센 급류와 깎아지른 협곡\, 굶주린 
+ 회색곰과 늑대 무리가 기다리고 있다. 인간의 잔혹함을 
+ 견뎌낸 개와 상처투성이가 된 사내\, 이제 서로가 유일
+ 한 버팀목이 된 두 영혼은 과연 집으로 돌아갈 수 있을
+ 까?\n\nhttps://www.themoviedb.org/movie/1263337?language=ko-KR
 URL:https://www.themoviedb.org/movie/1263337?language=ko-KR
 CATEGORIES:애플TV+
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1280115-appletv@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:⬛ '워리어 키드' - Way of the Warrior Kid (애플TV+)

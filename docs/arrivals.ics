@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:arrivals-netflix-378112@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 빅 위시 (넷플릭스)
@@ -30,7 +30,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-523277@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 मनमर्ज़ियाँ (넷플릭스)
@@ -42,7 +42,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-81481@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 도가니 (넷플릭스)
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-191121@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 란자나 (넷플릭스)
@@ -72,7 +72,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-253065@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 수상한 그녀 (넷플릭스)
@@ -95,7 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-9906@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 앤트 불리 (넷플릭스)
@@ -115,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-157336@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 인터스텔라 (넷플릭스)
@@ -137,7 +137,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-1858@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머 (넷플릭스)
@@ -161,7 +161,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-38356@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머 3 : 달의 어둠 (넷플릭스)
@@ -183,7 +183,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-91314@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머: 사라진 시대 (넷플릭스)
@@ -207,7 +207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-335988@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머: 최후의 기사 (넷플릭스)
@@ -226,7 +226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-8373@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머: 패자의 역습 (넷플릭스)
@@ -252,7 +252,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-205775@release-calendar
-DTSTAMP:20261105T215239Z
+DTSTAMP:20261106T214659Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 하트 오브 더 씨 (넷플릭스)
@@ -270,6 +270,110 @@ DESCRIPTION:원제: In the Heart of the Sea\n넷플릭스 · 신규 입고
  적인 이들 앞에 또 한번 거대 고래가 나타난다.\n\nhttps://
  www.themoviedb.org/movie/205775?language=ko-KR
 URL:https://www.themoviedb.org/movie/205775?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-345914@release-calendar
+DTSTAMP:20261106T214659Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🟥 더 하우스 (넷플릭스)
+DESCRIPTION:원제: The House\n넷플릭스 · 신규 입고 (최초 개봉
+  2017-06-29)\n\n외동딸의 대학 등록금 마련을 위해 이웃집
+ 에 불법으로 카지노를 운영하게되면서 벌어지는 유난스
+ 런 한 부부의 좌충우돌 코미디\n\nhttps://www.themoviedb.org/mov
+ ie/345914?language=ko-KR
+URL:https://www.themoviedb.org/movie/345914?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-572195@release-calendar
+DTSTAMP:20261106T214659Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🟥 더러운 돈에 손대지 마라 (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2024-10-17)\n\n수
+ 사도\, 뒷돈 챙기는 부업도 늘 함께하는 생계형 형사 명
+ 득과 동혁. 우연히 범죄 조직의 검은돈에 대한 정보를 
+ 입수한 두 사람은 인생 역전을 위해 신고도\, 추적도 불
+ 가한 돈을 훔치기로 계획한다. 그러나 완벽한 계획을 세
+ 웠다고 생각했던 현장에서 잠입 수사 중이던 형사의 죽
+ 음으로 사건은 꼬여만 간다. 살인 사건이 된 범죄 현장
+ 을 명득과 동혁이 직접 수사하게 되고 은폐하려고 했던 
+ 사건 현장의 증거가 두 사람을 지목하면서 그들을 점점 
+ 압박해 오는데…\n\nhttps://www.themoviedb.org/movie/572195?language
+ =ko-KR
+URL:https://www.themoviedb.org/movie/572195?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-177677@release-calendar
+DTSTAMP:20261106T214659Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🟥 미션 임파서블: 로그네이션 (넷플릭스)
+DESCRIPTION:원제: Mission: Impossible - Rogue Nation\n넷플릭스 · 신
+ 규 입고 (최초 개봉 2015-07-28)\n\n미국정부로부터 해체 통
+ 보를 받게 된 최첨단 첩보기관 IMF.  에단 헌트를 포함한 
+ 팀원들은 모두 뿔뿔이 흩어지게 되고\, 정체불명의 테러
+ 조직 신디케이트는 IMF 전멸 작전을 펼친다. 신디케이트
+ 에게 납치 당한 에단 헌트는 의문의 여인 일사의 도움을
+  받아 극적 탈출에 성공하고 다시 팀원들을 불러 모은다
+ . 리더 에단 헌트부터 전략 분석요원 브랜트\, IT 전문요
+ 원 벤지\, 해킹 전문요원 루터\, 그리고 정체를 알 수 없
+ 는 일사까지. 다시 모인 그들은 역대 가장 위협적인 적 
+ 신디케이트에 맞서는 불가능한 미션을 펼친다.\n\nhttps://
+ www.themoviedb.org/movie/177677?language=ko-KR
+URL:https://www.themoviedb.org/movie/177677?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-16996@release-calendar
+DTSTAMP:20261106T214659Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🟥 세븐틴 어게인 (넷플릭스)
+DESCRIPTION:원제: 17 Again\n넷플릭스 · 신규 입고 (최초 개봉 
+ 2009-03-11)\n\n중년의 위기에 가까워진 30대 마이크는 ‘다
+ 시 태어나기’를 바라고 있다. 그러던 어느 날 눈을 떠
+ 보니 다시 17살이 된 자신을 발견하게 되는데...\n\nhttps://
+ www.themoviedb.org/movie/16996?language=ko-KR
+URL:https://www.themoviedb.org/movie/16996?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-50647@release-calendar
+DTSTAMP:20261106T214659Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🟥 원더러스트 (넷플릭스)
+DESCRIPTION:원제: Wanderlust\n넷플릭스 · 신규 입고 (최초 개
+ 봉 2012-02-23)\n\n그들은 모든 것을 공유한다. 재산\, 시간\,
+  그리고 사랑. 뉴요커 조지(폴 러드)와 린다(제니퍼 애니
+ 스톤) 부부는 전 재산을 털어 원룸 아파트를 장만한다. 
+ 그러나 갑작스럽게 실직한 조지와 제작사에 작품을 팔
+ 지 못한 다큐멘터리 감독 린다는 빈털터리로 아파트를 
+ 되팔고 조지의 형이 있는 애틀란타로 떠난다. 애틀란타
+ 로 향하는 길에 하룻밤 묵을 곳을 찾던 두 사람은 ‘극
+ 락 공동체’라는 작은 마을을 발견한다. 자연과 하나되
+ 어 우정과 사랑으로 가득한 사람들의 뜨거운 환영을 받
+ 은 두 사람은 잊지 못할 즐거운 시간을 보낸다. 형의 집
+ 에서\, 형이 마련해준 직장에 다니고\, 형의 무시와 잔소
+ 리를 견디지 못한 조지와 린다는 그들을 환영하는 극락 
+ 공동체를 다시 찾아간다. 스트레스와 스마트폰\, 수면제
+ 가 없는 생활 속에서 웃고 즐기고 사랑하면서 지금껏 느
+ 끼지 못했던 새로운 삶과 마주하는 조지와 린다. 그러나
+  모든 것을 공유하는 그들은 서로 성적인 경계마저도 허
+ 물고 있었고\, 린다와 조지도 프리섹스의 제안을 받는다
+ . 더구나 그곳에 카지노를 지으려는 부동산 업자들의 계
+ 략으로 공동체는 위기에 처하는데….\n\nhttps://www.themovied
+ b.org/movie/50647?language=ko-KR
+URL:https://www.themoviedb.org/movie/50647?language=ko-KR
 CATEGORIES:OTT 신규 입고
 TRANSP:TRANSPARENT
 END:VEVENT
