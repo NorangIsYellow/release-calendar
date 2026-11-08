@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:arrivals-netflix-378112@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 빅 위시 (넷플릭스)
@@ -30,7 +30,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-523277@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 मनमर्ज़ियाँ (넷플릭스)
@@ -42,7 +42,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-81481@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 도가니 (넷플릭스)
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-191121@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 란자나 (넷플릭스)
@@ -72,7 +72,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-253065@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 수상한 그녀 (넷플릭스)
@@ -95,7 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-9906@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 앤트 불리 (넷플릭스)
@@ -115,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-157336@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 인터스텔라 (넷플릭스)
@@ -137,7 +137,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-1858@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머 (넷플릭스)
@@ -161,7 +161,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-38356@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머 3 : 달의 어둠 (넷플릭스)
@@ -183,7 +183,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-91314@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머: 사라진 시대 (넷플릭스)
@@ -207,7 +207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-335988@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머: 최후의 기사 (넷플릭스)
@@ -226,7 +226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-8373@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 트랜스포머: 패자의 역습 (넷플릭스)
@@ -252,7 +252,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-205775@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 하트 오브 더 씨 (넷플릭스)
@@ -275,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-345914@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🟥 더 하우스 (넷플릭스)
@@ -290,7 +290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-572195@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🟥 더러운 돈에 손대지 마라 (넷플릭스)
@@ -311,7 +311,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-177677@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🟥 미션 임파서블: 로그네이션 (넷플릭스)
@@ -333,7 +333,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-16996@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🟥 세븐틴 어게인 (넷플릭스)
@@ -348,7 +348,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-netflix-50647@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🟥 원더러스트 (넷플릭스)
@@ -379,7 +379,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arrivals-appletv-606057@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:⬛ 우주의 피너츠 : 아폴로 10호의 비밀들 (애플TV+)
@@ -391,20 +391,8 @@ CATEGORIES:OTT 신규 입고
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:arrivals-netflix-1817773@release-calendar
-DTSTAMP:20261107T214223Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:🟥 Alta Gama: El Caso Relojes (넷플릭스)
-DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2026-11-05)\n\nhtt
- ps://www.themoviedb.org/movie/1817773?language=ko-KR
-URL:https://www.themoviedb.org/movie/1817773?language=ko-KR
-CATEGORIES:OTT 신규 입고
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:arrivals-netflix-1226406@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:🟥 위드 러브 (넷플릭스)
@@ -418,6 +406,214 @@ DESCRIPTION:원제: Love Hurts\n넷플릭스 · 신규 입고 (최초 개
  과거를 다시 한번 마주해야 하는데…\n\nhttps://www.themovied
  b.org/movie/1226406?language=ko-KR
 URL:https://www.themoviedb.org/movie/1226406?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-138078@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 Shirdi Sai (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2012-09-06)\n\nhtt
+ ps://www.themoviedb.org/movie/138078?language=ko-KR
+URL:https://www.themoviedb.org/movie/138078?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-224061@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 అత్తారింటికి దారేది (넷
+ 플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2013-09-27)\n\nhtt
+ ps://www.themoviedb.org/movie/224061?language=ko-KR
+URL:https://www.themoviedb.org/movie/224061?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-215248@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 ఎవడు (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2014-01-12)\n\nhtt
+ ps://www.themoviedb.org/movie/215248?language=ko-KR
+URL:https://www.themoviedb.org/movie/215248?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-81070@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 ఖుషి (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2001-04-26)\n\nhtt
+ ps://www.themoviedb.org/movie/81070?language=ko-KR
+URL:https://www.themoviedb.org/movie/81070?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-199808@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 తమ్ముడు (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 1999-07-15)\n\nhtt
+ ps://www.themoviedb.org/movie/199808?language=ko-KR
+URL:https://www.themoviedb.org/movie/199808?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-137249@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 దొంగల ముఠా (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2011-04-18)\n\nhtt
+ ps://www.themoviedb.org/movie/137249?language=ko-KR
+URL:https://www.themoviedb.org/movie/137249?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-336082@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 దోచేయ్ (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2015-04-24)\n\nhtt
+ ps://www.themoviedb.org/movie/336082?language=ko-KR
+URL:https://www.themoviedb.org/movie/336082?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-94898@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 నమో వెంకటేశ (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2010-01-14)\n\nhtt
+ ps://www.themoviedb.org/movie/94898?language=ko-KR
+URL:https://www.themoviedb.org/movie/94898?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-467649@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 ఫిదా (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2017-07-20)\n\nhtt
+ ps://www.themoviedb.org/movie/467649?language=ko-KR
+URL:https://www.themoviedb.org/movie/467649?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-474955@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 యుద్ధం శరణం (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2017-09-08)\n\nhtt
+ ps://www.themoviedb.org/movie/474955?language=ko-KR
+URL:https://www.themoviedb.org/movie/474955?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-228092@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 యోగి (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2007-01-14)\n\nhtt
+ ps://www.themoviedb.org/movie/228092?language=ko-KR
+URL:https://www.themoviedb.org/movie/228092?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-227056@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 రామయ్యా వస్తావయ్యా (넷플
+ 릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2013-10-10)\n\nhtt
+ ps://www.themoviedb.org/movie/227056?language=ko-KR
+URL:https://www.themoviedb.org/movie/227056?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-73583@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 రెడీ (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2008-06-19)\n\nhtt
+ ps://www.themoviedb.org/movie/73583?language=ko-KR
+URL:https://www.themoviedb.org/movie/73583?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-82777@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 సింధూరం (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 1997-07-06)\n\nhtt
+ ps://www.themoviedb.org/movie/82777?language=ko-KR
+URL:https://www.themoviedb.org/movie/82777?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-193197@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 సీతమ్మ వాకిట్లో సిరిమల
+ ్లె చెట్టు (넷플릭스)
+DESCRIPTION:넷플릭스 · 신규 입고 (최초 개봉 2013-01-11)\n\nhtt
+ ps://www.themoviedb.org/movie/193197?language=ko-KR
+URL:https://www.themoviedb.org/movie/193197?language=ko-KR
+CATEGORIES:OTT 신규 입고
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:arrivals-netflix-148265@release-calendar
+DTSTAMP:20261108T214332Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟥 나는 파리다 (넷플릭스)
+DESCRIPTION:원제: ఈగ\n넷플릭스 · 신규 입고 (최초 개봉 20
+ 12-07-05)\n\n이웃집 여성 빈두를 오랫동안 좋아해 온 청년 
+ 나니는 자신의 마음이 그녀에게도 닿기 시작하자 하루
+ 하루가 설렌다. 그러나 빈두에게 집착하는 부유한 사업
+ 가 수딥은 두 사람의 관계를 눈치채고\, 방해가 되는 나
+ 니의 목숨을 빼앗는다. 사랑을 전할 기회조차 잃은 나니
+ 는 놀랍게도 작은 파리로 다시 태어나 자신을 죽인 남자
+ 와 마주한다. 사람의 말도 손도 없는 몸이지만 기억을 
+ 되찾은 그는 빈두를 지키기 위해 날갯짓과 끈질긴 방해
+ 로 수딥의 생활을 어지럽힌다. 눈앞의 하찮은 곤충 때문
+ 에 계획이 틀어질수록 수딥은 분노하고\, 빈두 역시 주
+ 변에서 벌어지는 기묘한 일을 알아차린다. 거대한 권력
+ 과 손바닥보다 작은 생명이 맞선 이 승부에서\, 끝내 포
+ 기하지 않는 쪽은 누구일까?\n\nhttps://www.themoviedb.org/movie/
+ 148265?language=ko-KR
+URL:https://www.themoviedb.org/movie/148265?language=ko-KR
 CATEGORIES:OTT 신규 입고
 TRANSP:TRANSPARENT
 END:VEVENT

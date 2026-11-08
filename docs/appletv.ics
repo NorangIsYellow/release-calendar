@@ -8,33 +8,8 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:appletv-movie-1302904-appletv@release-calendar
-DTSTAMP:20261107T214223Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:⬛ 프랙티컬 매직: 새로운 챕터 (애플TV+)
-DESCRIPTION:원제: Practical Magic 2\n애플TV+ · 영화\n\n마법의 피
- 를 이어받은 오웬스 가문의 자매 샐리와 질리언. 폭풍 
- 같았던 그날로부터 25년이 흐르고 평온한 일상을 되찾은
-  듯했던 가족에게 다시 어둠이 드리운다. 샐리의 딸 카
- 일리가 오랫동안 묻혀 있던 가문의 비밀을 파헤치기 시
- 작하면서 그 안에 잠들어 있던 예측할 수 없는 어두운 
- 힘이 깨어나기 시작한 것. 수백 년간 오웬스 가문의 여
- 인들을 옭아매 온 저주\, 사랑하는 이를 잃게 만드는 그 
- 오래된 굴레가 이제 다음 세대를 집어삼키려 한다. 딸을
-  지키기 위해 샐리와 질리언\, 그리고 두 이모는 다시 한
- 번 힘을 모아 매사추세츠의 집을 떠나 자신들의 마법이 
- 처음 시작된 땅으로 향한다. 세대를 넘어 이어져 온 저
- 주의 근원과 마주하게 될 오웬스 가문의 여인들\, 과연 
- 이들은 서로를 위한 희생으로 운명의 사슬을 끊어낼 수 
- 있을까.\n\nhttps://www.themoviedb.org/movie/1302904?language=ko-KR
-URL:https://www.themoviedb.org/movie/1302904?language=ko-KR
-CATEGORIES:애플TV+
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:appletv-movie-1384216-appletv@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:⬛ 도그 스타: 마지막 희망 (애플TV+)
@@ -58,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1058424-appletv@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:⬛ 호프 (애플TV+)
@@ -75,7 +50,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1433367-appletv@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:⬛ 원나잇 온리 (애플TV+)
@@ -87,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1050981-appletv@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:⬛ '나는\, 휴먼' - Being Heumann (애플TV+)
@@ -103,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1798903-appletv@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:⬛ KILL/SAVE (애플TV+)
@@ -115,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1368337-appletv@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:⬛ 오디세이 (애플TV+)
@@ -133,7 +108,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1263337-appletv@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:⬛ 하트 오브 비스트 (애플TV+)
@@ -157,7 +132,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1280115-appletv@release-calendar
-DTSTAMP:20261107T214223Z
+DTSTAMP:20261108T214332Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:⬛ '워리어 키드' - Way of the Warrior Kid (애플TV+)
