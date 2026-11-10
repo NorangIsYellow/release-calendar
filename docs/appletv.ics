@@ -8,32 +8,8 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:appletv-movie-1384216-appletv@release-calendar
-DTSTAMP:20261109T215359Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:⬛ 도그 스타: 마지막 희망 (애플TV+)
-DESCRIPTION:원제: The Dog Stars\n애플TV+ · 영화\n\n인류를 휩쓴 
- 대재앙으로 문명이 무너지고 폐허가 된 세상. 임신한 아
- 내를 잃은 파일럿 힉은 반려견 재스퍼와 함께 살아남기 
- 위해 매일 목숨을 건 사투를 벌이고\, 생존을 위해서는 
- 누군가를 죽여야만 하는 냉혹한 현실 속에서 점점 삶의 
- 희망마저 잃어간다. 어느 날\, 다른 구역에서 들려온 의
- 문의 라디오 무전은 힉에게 새로운 땅과 삶에 대한 희망
- 을 안겨준다. 유일한 이웃인 뱅리의 염세적인 만류에도 
- 불구하고 무전의 발신지를 찾아 길을 떠난 힉은 다른 구
- 역의 생존자 시마와 팝스를 만나 오랜만에 인간다운 온
- 기와 희망을 되찾는다. 그러나 평화도 잠시\, 야만적인 
- 생존자들의 위협이 그들을 덮치고 힉과 동료들은 살아
- 남기 위한 마지막 사투에 뛰어든다.\n\nhttps://www.themoviedb.
- org/movie/1384216?language=ko-KR
-URL:https://www.themoviedb.org/movie/1384216?language=ko-KR
-CATEGORIES:애플TV+
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:appletv-movie-1058424-appletv@release-calendar
-DTSTAMP:20261109T215359Z
+DTSTAMP:20261110T214836Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:⬛ 호프 (애플TV+)
@@ -50,7 +26,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1433367-appletv@release-calendar
-DTSTAMP:20261109T215359Z
+DTSTAMP:20261110T214836Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:⬛ 원나잇 온리 (애플TV+)
@@ -69,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1050981-appletv@release-calendar
-DTSTAMP:20261109T215359Z
+DTSTAMP:20261110T214836Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:⬛ '나는\, 휴먼' - Being Heumann (애플TV+)
@@ -85,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1798903-appletv@release-calendar
-DTSTAMP:20261109T215359Z
+DTSTAMP:20261110T214836Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:⬛ KILL/SAVE (애플TV+)
@@ -97,7 +73,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1368337-appletv@release-calendar
-DTSTAMP:20261109T215359Z
+DTSTAMP:20261110T214836Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:⬛ 오디세이 (애플TV+)
@@ -115,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1263337-appletv@release-calendar
-DTSTAMP:20261109T215359Z
+DTSTAMP:20261110T214836Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:⬛ 하트 오브 비스트 (애플TV+)
@@ -139,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1280115-appletv@release-calendar
-DTSTAMP:20261109T215359Z
+DTSTAMP:20261110T214836Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:⬛ '워리어 키드' - Way of the Warrior Kid (애플TV+)
@@ -150,6 +126,62 @@ DESCRIPTION:원제: Way of the Warrior Kid\n애플TV+ · 영화\n\n부상
  법을 가르친다.\n\nhttps://www.themoviedb.org/movie/1280115?language=
  ko-KR
 URL:https://www.themoviedb.org/movie/1280115?language=ko-KR
+CATEGORIES:애플TV+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:appletv-movie-1423191-appletv@release-calendar
+DTSTAMP:20261110T214836Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:⬛ 레지던트 이블: 0번째 밤 (애플TV+)
+DESCRIPTION:원제: Resident Evil\n애플TV+ · 영화\n\n의료 택배 기
+ 사 브라이언은 긴급 배달을 맡아 심야에 라쿤 시티 종합
+  병원으로 향한다. 눈발을 헤치며 가던 중 갑자기 차로 
+ 뛰어든 누군가를 치게 되고\, 죽은 줄 알았던 이가 다시 
+ 그를 덮쳐온다. 하나인 줄 알았던 정체불명의 존재들은 
+ 끊임없이 늘어나고\, 통신마저 끊긴다. 브라이언은 자신
+ 이 무엇을 배달하고 있는지도 모른 채 눈앞에 닥친 존재
+ 들을 피해 필사의 사투를 벌이는데…\n\nhttps://www.themovied
+ b.org/movie/1423191?language=ko-KR
+URL:https://www.themoviedb.org/movie/1423191?language=ko-KR
+CATEGORIES:애플TV+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:appletv-movie-1455079-appletv@release-calendar
+DTSTAMP:20261110T214836Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:⬛ You\, Me & Tuscany (애플TV+)
+DESCRIPTION:애플TV+ · 영화\n\nhttps://www.themoviedb.org/movie/1455079
+ ?language=ko-KR
+URL:https://www.themoviedb.org/movie/1455079?language=ko-KR
+CATEGORIES:애플TV+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:appletv-movie-1465063-appletv@release-calendar
+DTSTAMP:20261110T214836Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:⬛ 포가튼 아일랜드 (애플TV+)
+DESCRIPTION:원제: Forgotten Island\n애플TV+ · 영화\n\n성격은 달
+ 라도 마음만큼은 누구보다 잘 통했던 ‘조’와 ‘라이
+ 사’는 최고의 베프로 모든 순간을 함께하며 둘만의 기
+ 억을 쌓아간다. 그러나 졸업과 함께 서로 다른 환경을 
+ 살아가던 두 사람의 우정은 조금씩 흔들리기 시작한다. 
+ 그러던 어느 날\, 전설처럼 전해지던 신비한 포털을 발
+ 견한 두 사람은 기억이 사라지는 세계\, ‘포가튼 아일
+ 랜드’로 빨려 들어가게 되고\, 시공간의 경계를 넘나드
+ 는 이 섬을 떠나기 위해선 가장 소중한 추억을 포기해야
+  하는 규칙이 주어진다. 기억을 훔치는 섬의 지배자 ‘
+ 마낭’이 두 사람을 위협하는 가운데 ‘조’와 ‘라이
+ 사’는 섬에서 만난 새로운 친구들과 비밀을 쫓기 시작
+ 하지만 진실에 가까워질수록 두 사람의 기억은 사라질 
+ 위기에 처하는데…\n\nhttps://www.themoviedb.org/movie/1465063?lang
+ uage=ko-KR
+URL:https://www.themoviedb.org/movie/1465063?language=ko-KR
 CATEGORIES:애플TV+
 TRANSP:TRANSPARENT
 END:VEVENT
