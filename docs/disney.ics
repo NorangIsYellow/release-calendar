@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:disney-movie-675871-disney@release-calendar
-DTSTAMP:20261110T214836Z
+DTSTAMP:20261111T221154Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟦 슈퍼 트루퍼스 3 (디즈니+)
@@ -27,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:disney-movie-1815736-disney@release-calendar
-DTSTAMP:20261110T214836Z
+DTSTAMP:20261111T221154Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟦 Antoñito Molina - Un sueño: del chiringuito al estadio (디
@@ -40,7 +40,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:disney-movie-1798383-disney@release-calendar
-DTSTAMP:20261110T214836Z
+DTSTAMP:20261111T221154Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟦 Wolves Up Close with Bertie Gregory (디즈니+)
@@ -51,8 +51,42 @@ CATEGORIES:디즈니+
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:disney-movie-1820101-disney@release-calendar
+DTSTAMP:20261111T221154Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🟦 The Invisible Horse (디즈니+)
+DESCRIPTION:디즈니+ · 영화\n\nhttps://www.themoviedb.org/movie/182010
+ 1?language=ko-KR
+URL:https://www.themoviedb.org/movie/1820101?language=ko-KR
+CATEGORIES:디즈니+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:disney-movie-299534-disney@release-calendar
+DTSTAMP:20261111T221154Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🟦 어벤져스: 엔드게임 (디즈니+)
+DESCRIPTION:원제: Avengers: Endgame\n디즈니+ · 영화\n\n어벤져스
+ 의 패배 이후 지구는 초토화됐고 남은 절반의 사람들은 
+ 정신적 고통을 호소하며 하루하루를 근근이 버텨나간다
+ . 와칸다에서 싸우다 생존한 히어로들과 우주의 타이탄 
+ 행성에서 싸우다 생존한 히어로들이 뿔뿔이 흩어졌는데
+ \, 아이언맨과 네뷸라는 우주를 떠돌고 있고 지구에 남
+ 아 있는 어벤져스 멤버들은 닉 퓨리가 마지막에 신호를 
+ 보내다 만 송신기만 들여다보며 혹시 모를 우주의 응답
+ 을 기다리는 중이다. 애초 히어로의 삶을 잠시 내려놓고
+  가족과 시간을 보내던 호크아이 역시 헤아릴 수 없는 
+ 마음의 상처를 입은 채 사라지고 마는데...\n\nhttps://www.th
+ emoviedb.org/movie/299534?language=ko-KR
+URL:https://www.themoviedb.org/movie/299534?language=ko-KR
+CATEGORIES:디즈니+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:disney-movie-1493400-disney@release-calendar
-DTSTAMP:20261110T214836Z
+DTSTAMP:20261111T221154Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🟦 캠프 락 3 (디즈니+)
@@ -70,7 +104,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:disney-movie-1519780-disney@release-calendar
-DTSTAMP:20261110T214836Z
+DTSTAMP:20261111T221154Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:🟦 Diary of a Wimpy Kid Christmas: The Getaway (디즈니+)
