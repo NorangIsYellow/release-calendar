@@ -8,179 +8,8 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:netflix-movie-505262-netflix@release-calendar
-DTSTAMP:20261114T214336Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:🟥 나의 히어로 아카데미아 더 무비: 두 명의 히어
- 로 (넷플릭스)
-DESCRIPTION:원제: 僕のヒーローアカデミア THE MOVIE ～2人の
- 英雄～\n넷플릭스 · 영화\n\n모두가 ‘개성’이라는 초
- 능력을 가진 세계\, 여기에 ‘무개성’의 소년이 있었다
- ! 하지만 소년은 ‘개성’ 대신 히어로가 될 조건을 가
- 지고 있었는데… NO.1 히어로 ‘올마이트’의 뒤를 잇는 
- 새로운 영웅 탄생! 개성이 없어도\, 넌 세상을 빛낼 히어
- 로가 될 수 있다! 5월 모두 다같이 입학~!\n\nhttps://www.themo
- viedb.org/movie/505262?language=ko-KR
-URL:https://www.themoviedb.org/movie/505262?language=ko-KR
-CATEGORIES:넷플릭스
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:netflix-movie-592350-netflix@release-calendar
-DTSTAMP:20261114T214336Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:🟥 나의 히어로 아카데미아 더 무비: 히어로즈 라
- 이징 (넷플릭스)
-DESCRIPTION:원제: 僕のヒーローアカデミア THE MOVIE ヒーロ
- ーズ：ライジング\n넷플릭스 · 영화\n\n눈이 계속 내리
- 는 겨울 어느 밤\, 히어로 사회를 파괴하려고 계획하는 
- 시가라키 토무라가 인솔하는 빌런 연합과 그 움직임을 
- 사전에 포착한 히어로들의 전투가 전개되는 가운데\, 남
- 모르게 조용히 꿈틀거리는 "뭔가"가 일어나고\, 그 자리
- 를 떠났다. 마침 이즈쿠 일행의 유에이 고교 히어로과 1
- 학년 A반이 은퇴한 No.1 히어로 올마이트의 뒤를 이어 "차
- 세대 영웅 육성 프로젝트"의 일환으로 학급 전원에서 기
- 간 한정의 교외 히어로 활동을 위해 일본의 훨씬 남쪽에
-  위치한 외딴 섬 "나부 섬"을 찾았다. 얼마 전 큰 사건이 
- 일어나지 않았던 평화로운 섬에서 이들은 주재 영웅으
- 로서 섬사람들의 생활을 도우며 분주했고\, 그러면서도 
- 한가한 시간을 보내고 있었다. 그러나 그 정적을 부수듯
- 이\, 갑자기 빌런들이 나부 섬을 덮쳐\, 차례차례로 섬의
-  시설을 파괴해 간다. 그들을 지휘하는 것은\, "나인". 그
- 날 밤\, 눈을 뜬 "뭔가"그 자체였다. 이즈쿠와 바쿠고 등
- 의 1학년 A반의 멤버는 힘을 모아 빌런에 맞선다! 과연 
- 섬을 덮치는 나인의 목적이란!? 그리고 이즈쿠 일행의 1
- 학년 A반의 "뉴 히어로"들은 이 가장 흉악한 빌런으로부
- 터 섬의 사람들을 지킬 수 있을까!?\n\nhttps://www.themoviedb.o
- rg/movie/592350?language=ko-KR
-URL:https://www.themoviedb.org/movie/592350?language=ko-KR
-CATEGORIES:넷플릭스
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:netflix-movie-1206617-netflix@release-calendar
-DTSTAMP:20261114T214336Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:🟥 못 말리는 악동들의 특별한 성탄극 (넷플릭스)
-DESCRIPTION:원제: The Best Christmas Pageant Ever\n넷플릭스 · 영화
- \n\n한 엄마가 굳은 결심으로 교회 성탄극을 맡는다. 말
- 썽꾸러기 아이 여섯이 보수적인 마을 주민들에게 크리
- 스마스의 진정한 의미를 일깨워 줄 수 있도록.\n\nhttps://w
- ww.themoviedb.org/movie/1206617?language=ko-KR
-URL:https://www.themoviedb.org/movie/1206617?language=ko-KR
-CATEGORIES:넷플릭스
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:netflix-movie-1760311-netflix@release-calendar
-DTSTAMP:20261114T214336Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:🟥 바비의 호두까기 인형 (넷플릭스)
-DESCRIPTION:원제: Barbie in the Nutcracker\n넷플릭스 · 영화\n\n바
- 비 ‘브루클린’ 로버츠는 사탕 요정 공주 역을\, 바비 
- ‘말리부’ 로버츠는 클라라 역을 맡아 크리스마스의 
- 설렘과 신비로움이 가득한 마법의 꿈속 세계로 모험을 
- 떠난다. 음악과 마법이 어우러진 환상적인 여정 속에서 
- 두 사람은 용기와 우정의 소중함을 깨닫게 된다.\n\nhttps:
- //www.themoviedb.org/movie/1760311?language=ko-KR
-URL:https://www.themoviedb.org/movie/1760311?language=ko-KR
-CATEGORIES:넷플릭스
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:netflix-movie-939243-netflix@release-calendar
-DTSTAMP:20261114T214336Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:🟥 수퍼 소닉 3 (넷플릭스)
-DESCRIPTION:원제: Sonic the Hedgehog 3\n넷플릭스 · 영화\n\n소닉
- 은 너클즈와 테일즈 곁에서 평온한 시간을 보내던 중\, 
- 비밀 연구시설에서 탈출한 존재를 막아 달라는 요청을 
- 받는다. 오랫동안 잠들어 있던 섀도우는 소중한 것을 잃
- 은 분노를 품은 채 움직이며 소닉 일행이 전에 겪지 못
- 한 힘을 드러낸다. 속도와 힘을 합쳐도 맞설 수 없는 상
- 대 앞에서 세 친구는 자신들만의 방식으로 해결할 수 있
- 다는 자신감을 시험받는다. 위협이 커지자 소닉은 지구
- 를 지키기 위해 오랜 적 닥터 로보트닉의 도움까지 구해
- 야 하는 뜻밖의 선택에 놓인다. 믿기 어려운 협력이 이
- 어지는 동안 섀도우와 얽힌 과거가 드러나고\, 싸움은 
- 더 큰 위험으로 번져 간다. 자신과 닮은 능력을 지녔지
- 만 전혀 다른 길을 걷는 적 앞에서 소닉은 친구들과 함
- 께 무엇을 지켜야 할지 묻게 된다.\n\nhttps://www.themoviedb.or
- g/movie/939243?language=ko-KR
-URL:https://www.themoviedb.org/movie/939243?language=ko-KR
-CATEGORIES:넷플릭스
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:netflix-movie-574475-netflix@release-calendar
-DTSTAMP:20261114T214336Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:🟥 파이널 데스티네이션: 블러드라인 (넷플릭스)
-DESCRIPTION:원제: Final Destination Bloodlines\n넷플릭스 · 영화\n\
- n끝없는 악몽에 시달리던 스테파니는 그 원인을 찾던 중
-  집안 대대로 내려오는 죽음의 저주와 그 실체를 알게 
- 된다. 놀랍게도\, 죽음의 순서가 자신의 가족에게 이어
- 졌음을 알게 되는데...  이제\, 다음 차례는 누구?\n\nhttps:
- //www.themoviedb.org/movie/574475?language=ko-KR
-URL:https://www.themoviedb.org/movie/574475?language=ko-KR
-CATEGORIES:넷플릭스
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:netflix-movie-49051-netflix@release-calendar
-DTSTAMP:20261114T214336Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:🟥 호빗: 뜻밖의 여정 (넷플릭스)
-DESCRIPTION:원제: The Hobbit: An Unexpected Journey\n넷플릭스 · 영
- 화\n\n호빗족 빌보 배긴스는 어느 날 찾아온 회색의 마법
- 사 간달프로부터 뜻밖의 제안을 받는다. 오래 전 난쟁이
- 족의 영토였지만 무시무시한 용 스마우그에게 빼앗겨 
- 지금은 황무지로 변한 동쪽의 외로운 산 에레보르 왕국
- 을 되찾기 위해 함께 떠나자는 것. 빌보는 전설의 용사 
- 소린이 이끄는 13명의 난쟁이족과 함께 위험 가득한 여
- 정에 오른다. 외로운 산에 가기 위해서 반드시 거쳐야 
- 하는 고블린 동굴에서 일행과 떨어져 헤매던 빌보는 그
- 의 일생을 뒤바꿔놓는 존재인 골룸과 마주치게 되고\, 
- 골룸과의 수수께끼 대결 중에 대단한 힘을 지닌 골룸의 
- 보물 절대반지를 얻게 되는데...\n\nhttps://www.themoviedb.org/m
- ovie/49051?language=ko-KR
-URL:https://www.themoviedb.org/movie/49051?language=ko-KR
-CATEGORIES:넷플릭스
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:netflix-movie-57158-netflix@release-calendar
-DTSTAMP:20261114T214336Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:🟥 호빗: 스마우그의 폐허 (넷플릭스)
-DESCRIPTION:원제: The Hobbit: The Desolation of Smaug\n넷플릭스 · 
- 영화\n\n사나운 용 스마우그가 빼앗아간 동쪽의 외로운 
- 산 에레보르 왕국을 되찾기 위해 뜻하지 않은 여정을 떠
- 나게 된 호빗 빌보 배긴스와 간달프\, 그리고 난쟁이족 
- 왕족의 후예 소린이 이끄는 13명의 난쟁이족. 원정대는 
- 외로운 산으로 가는 길에 어둠의 숲에서 모습을 자유자
- 재로 바꾸는 베오른과 거대한 거미떼를 만나고\, 난쟁이
- 들에게 적대적인 엘프족에게 잡혔다가 도망쳐 호수마을
- 을 지나는 등 다양한 모험을 하게 된다. 그리고 마침내 
- 지금껏 만났던 그 어떤 존재보다도 위험하고 모두의 용
- 기와 우정\, 지혜의 한계를 시험에 들게 한 용 스마우그
- 와 맞닥뜨리게 되는데...\n\nhttps://www.themoviedb.org/movie/57158
- ?language=ko-KR
-URL:https://www.themoviedb.org/movie/57158?language=ko-KR
-CATEGORIES:넷플릭스
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:netflix-movie-1257147-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:🟥 나의 베스트 프렌드 (넷플릭스)
@@ -195,7 +24,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-953535-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:🟥 심장소리 (넷플릭스)
@@ -209,7 +38,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-79464-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:🟥 락스타 (넷플릭스)
@@ -225,8 +54,24 @@ CATEGORIES:넷플릭스
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:netflix-movie-1804941-netflix@release-calendar
+DTSTAMP:20261115T214508Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🟥 마이크 타이슨: 마이크가 돌아왔다 (넷플릭스)
+DESCRIPTION:원제: Mike Tyson: Return of the Mike\n넷플릭스 · 영화\
+ n\n복싱의 전설 마이크 타이슨이 무대 위에서 펼치는 1인
+  스탠드업 코미디쇼. 파란만장한 인생 이야기와 거침없
+ 는 생각들을 필터 없는 입담으로 쏟아내며\, 그 어느 때
+ 보다 솔직하고 유쾌한 모습을 선보인다.\n\nhttps://www.themo
+ viedb.org/movie/1804941?language=ko-KR
+URL:https://www.themoviedb.org/movie/1804941?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:netflix-movie-1816668-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🟥 니뇨: 명성의 대가 (넷플릭스)
@@ -241,7 +86,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1570488-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🟥 반려견의 완벽한 크리스마스 (넷플릭스)
@@ -256,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-464052-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🟥 원더 우먼 1984 (넷플릭스)
@@ -278,7 +123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1341137-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🟥 위대한 각성 (넷플릭스)
@@ -292,7 +137,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1810711-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 Dilwali Diwali (넷플릭스)
@@ -304,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1630865-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 Petaka Gunung Welirang (넷플릭스)
@@ -316,7 +161,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-958196-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 고립된 남자 (넷플릭스)
@@ -336,7 +181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1954-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 나비 효과 (넷플릭스)
@@ -362,7 +207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-9759-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 셀룰러 (넷플릭스)
@@ -386,7 +231,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1654940-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 시한부 1년\, 남자를 사다 (넷플릭스)
@@ -402,7 +247,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1630420-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 오버액션 갱 (넷플릭스)
@@ -417,7 +262,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-27205-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🟥 인셉션 (넷플릭스)
@@ -441,7 +286,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1483525-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 가능한 사랑 (넷플릭스)
@@ -465,7 +310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-296096-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 미 비포 유 (넷플릭스)
@@ -490,7 +335,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1794569-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 보호받지 못한 자: 머더 인 갈리시아 (넷플릭스
@@ -507,7 +352,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1329471-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:🟥 캐롤라이나 캐롤라인 (넷플릭스)
@@ -523,7 +368,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1817773-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🟥 Alta Gama: El Caso Relojes (넷플릭스)
@@ -535,7 +380,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1743695-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🟥 El Club del Pie Izquierdo (넷플릭스)
@@ -547,7 +392,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1476682-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🟥 게일의 원나잇 패스 (넷플릭스)
@@ -576,7 +421,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1381221-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:🟥 미스티 그린 (넷플릭스)
@@ -588,7 +433,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-21355-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:🟥 올 더 프리티 호스 (넷플릭스)
@@ -606,7 +451,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1616419-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:🟥 좋은 변호사 (넷플릭스)
@@ -621,7 +466,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1820172-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:🟥 Janelle James: How Romantic (넷플릭스)
@@ -633,7 +478,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1367642-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:🟥 리마인더스 오브 힘 (넷플릭스)
@@ -657,7 +502,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1666787-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🟥 리처드 애버던 (넷플릭스)
@@ -672,7 +517,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1664682-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🟥 시간이 지울 수 없는 죄 (넷플릭스)
@@ -687,7 +532,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1559980-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🟥 크리스마스 가스펠 (넷플릭스)
@@ -702,7 +547,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1419036-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:🟥 끄릿사다 파라다이스 (넷플릭스)
@@ -717,7 +562,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1616687-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:🟥 네버 서렌더 (넷플릭스)
@@ -731,22 +576,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1518204-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:🟥 앨런 (넷플릭스)
-DESCRIPTION:원제: Allen\n넷플릭스 · 영화\n\n어린 시절의 만
- 남을 한시도 잊지 못하는 피티. 그런 그 앞에 외계인 친
- 구가 비밀을 품은 채 돌아온다. 그리고 그 비밀을 마주
- 한 피티는 마침내 과거에서 벗어나게 될지도 모른다.\n\n
- https://www.themoviedb.org/movie/1518204?language=ko-KR
+DESCRIPTION:원제: Allen\n넷플릭스 · 영화\n\n외계인과 만난 
+ 지 20년이 지났지만\, 여전히 그 일을 잊지 못하는 피티. 
+ 마침내 옛 친구가 돌아왔다! 그런데 다시 나타난 이유가
+  예사롭지 않은 데다 뜻밖이기까지 하다.\n\nhttps://www.them
+ oviedb.org/movie/1518204?language=ko-KR
 URL:https://www.themoviedb.org/movie/1518204?language=ko-KR
 CATEGORIES:넷플릭스
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1757174-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:🟥 크리스마스까지만 (넷플릭스)
@@ -762,7 +607,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1475375-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:🟥 폐병원 402호 (넷플릭스)
@@ -785,7 +630,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1302916-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:🟥 하트 아이즈 (넷플릭스)
@@ -800,7 +645,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1215889-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🟥 दायरा (넷플릭스)
@@ -812,7 +657,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1389379-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🟥 రణబాలి (넷플릭스)
@@ -824,7 +669,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-11287-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🟥 그들만의 리그 (넷플릭스)
@@ -849,7 +694,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1823907-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🟥 러셀 브랜드: 모른 척했던 비밀 (넷플릭스)
@@ -864,7 +709,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1418709-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🟥 싸움꾼들 (넷플릭스)
@@ -878,7 +723,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1543469-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🟥 하트랜드 (넷플릭스)
@@ -896,7 +741,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1211472-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:🟥 9월 5일: 위험한 특종 (넷플릭스)
@@ -913,8 +758,36 @@ CATEGORIES:넷플릭스
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:netflix-movie-768744-netflix@release-calendar
+DTSTAMP:20261115T214508Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:🟥 나의 히어로 아카데미아 더 무비: 월드 히어로
+ 즈 미션 (넷플릭스)
+DESCRIPTION:원제: 僕のヒーローアカデミア THE MOVIE ワール
+ ド ヒーローズ ミッション\n넷플릭스 · 영화\n\n전 세계 
+ 개성 보유자 섬멸을 목표로 하는 수수께끼 조직 휴머라
+ 이즈. 그들이 각국에 설치한 '이디오 트리거 밤'으로부
+ 터 사람들을 구하기 위해 세계 선발 히어로 팀이 결성된
+ 다! 세계 각국의 프로 히어로와 유에이 고교 히어로과 
+ 학생들이 소집되어 각 지역에서 폭탄 회수 임무를 맡게 
+ 되는데... 엔데버 사무소에서 인턴 중인 미도리야\, 바쿠
+ 고\, 토도로키는 오세온에서 작전 수행 중\, 어떠한 사건
+ 에 휘말리게 되고 미도리야는 이를 계기로 만난 운반책 
+ 소년 로디와 함께 경찰\, 빌런의 공격을 받으며 전국에 
+ 지명수배된다. 한편\, 휴머라이즈의 지도자 플렉트 턴이
+  범행을 예고하며 세계는 패닉에 빠지고\, 히어로 팀은 
+ 절체절명의 상황에 위험을 무릅쓰고 폭탄 회수에 나서
+ 는데... 제한시간은 단 2시간! 전 세계와 히어로들의 미
+ 래가 '그들' 손에 달렸다!\n\nhttps://www.themoviedb.org/movie/7687
+ 44?language=ko-KR
+URL:https://www.themoviedb.org/movie/768744?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:netflix-movie-1339713-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:🟥 옵세션 (넷플릭스)
@@ -930,7 +803,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-10292-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:🟥 캠퍼스 레전드 3 (넷플릭스)
@@ -955,7 +828,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1590613-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🟥 Cerita Lila (넷플릭스)
@@ -967,7 +840,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1551025-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🟥 스타의 보디가드 (넷플릭스)
@@ -983,7 +856,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1473148-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🟥 젠틀 몬스터 (넷플릭스)
@@ -1001,7 +874,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-17339-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:🟥 나바론 요새 2 (넷플릭스)
@@ -1017,7 +890,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-587807-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:🟥 톰과 제리 (넷플릭스)
@@ -1034,7 +907,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1307474-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:🟥 Vicentina Pede Desculpas (넷플릭스)
@@ -1046,7 +919,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1595124-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:🟥 스텝스 (넷플릭스)
@@ -1067,7 +940,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1291595-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:🟥 인시디어스: 그들이 넘어왔다 (넷플릭스)
@@ -1090,7 +963,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1458300-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🟥 모스키토 볼: 전장의 마지막 터치다운 (넷플릭
@@ -1104,8 +977,29 @@ CATEGORIES:넷플릭스
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:netflix-movie-969681-netflix@release-calendar
+DTSTAMP:20261115T214508Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🟥 스파이더맨: 브랜드 뉴 데이 (넷플릭스)
+DESCRIPTION:원제: Spider-Man: Brand New Day\n넷플릭스 · 영화\n\n4
+ 년 전 소중한 사람들을 지키기 위해 모두의 기억에서 사
+ 라진 피터 파커. 친절한 이웃 스파이더맨으로서 뉴욕을 
+ 지키며 고독한 삶을 살아가던 피터는 어느 날\, 예상치 
+ 못한 DNA 변이로 인해 통제 불가능한 힘에 사로잡히고 그
+ 의 진짜 정체를 알고 있는 적까지 마주하게 된다. 타인
+ 의 의식을 조종하는 정체불명의 존재로 인해 모두가 피
+ 터를 노리는 적이 될 수 있는 혼란 속에서 피터는 다시 
+ 위협에 빠진 MJ와 모두를 지키기 위해 스파이더맨으로 
+ 그들 앞에 서게 되는데...\n\nhttps://www.themoviedb.org/movie/9696
+ 81?language=ko-KR
+URL:https://www.themoviedb.org/movie/969681?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:netflix-movie-1480665-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:🟥 콰지모도\, 파리의 영혼 (넷플릭스)
@@ -1122,7 +1016,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1226863-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:🟥 슈퍼 마리오 갤럭시 (넷플릭스)
@@ -1145,7 +1039,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-5951-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:🟥 제인 오스틴 북 클럽 (넷플릭스)
@@ -1173,7 +1067,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1318413-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:🟥 프레셔 (넷플릭스)
@@ -1189,8 +1083,20 @@ CATEGORIES:넷플릭스
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:netflix-movie-1588626-netflix@release-calendar
+DTSTAMP:20261115T214508Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🟥 In a Holidaze (넷플릭스)
+DESCRIPTION:넷플릭스 · 영화\n\nhttps://www.themoviedb.org/movie/1588
+ 626?language=ko-KR
+URL:https://www.themoviedb.org/movie/1588626?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:netflix-movie-1422041-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🟥 블랙 볼 (넷플릭스)
@@ -1208,7 +1114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1379537-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:🟥 더 갤러리스트 (넷플릭스)
@@ -1219,8 +1125,33 @@ CATEGORIES:넷플릭스
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:netflix-movie-913-netflix@release-calendar
+DTSTAMP:20261115T214508Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🟥 토마스 크라운 어페어 (넷플릭스)
+DESCRIPTION:원제: The Thomas Crown Affair\n넷플릭스 · 영화\n\n무
+ 엇이든 살 수 있는 부호 토마스 크라운은 돈으로는 얻을
+  수 없는 긴장과 위험을 갈망한다. 뉴욕의 미술관에서 
+ 대담한 절도 사건이 벌어지고 값비싼 그림이 사라지자\,
+  경찰과 함께 보험 조사관 캐서린 배닝이 수사에 나선다
+ . 누구도 의심하지 않는 크라운에게 시선을 고정한 캐서
+ 린은 범행의 동기가 재산이 아니라 쾌감일 수 있다고 판
+ 단한다. 크라운은 자신을 의심하는 그녀의 접근을 피하
+ 지 않고\, 오히려 식사와 여행에 초대하며 추적 자체를 
+ 즐기는 듯 행동한다. 서로의 허점을 살피던 두 사람은 
+ 지적인 도발과 강렬한 매력에 이끌리지만\, 가까워질수
+ 록 진심과 계산을 구별하기가 어려워진다. 그림을 되찾
+ 아야 하는 여자와 모든 위험을 통제해 온 남자의 승부에
+  사랑이라는 예측 불가능한 변수가 끼어든다.\n\nhttps://ww
+ w.themoviedb.org/movie/913?language=ko-KR
+URL:https://www.themoviedb.org/movie/913?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:netflix-movie-1515392-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:🟥 배드 데이 (넷플릭스)
@@ -1234,7 +1165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-947502-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:🟥 우리\, 파도처럼 (넷플릭스)
@@ -1248,8 +1179,33 @@ CATEGORIES:넷플릭스
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:netflix-movie-14926-netflix@release-calendar
+DTSTAMP:20261115T214508Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:🟥 업타운 걸스 (넷플릭스)
+DESCRIPTION:원제: Uptown Girls\n넷플릭스 · 영화\n\n록스타 아
+ 버지가 남긴 유산으로 파티를 즐기던 몰리는 재산 관리
+ 인의 횡령 때문에 하루아침에 빈털터리가 된다. 친구의 
+ 집에 얹혀살며 처음으로 일자리를 구한 그녀가 맡은 일
+ 은 음악계 인사의 여덟 살 딸 레이를 돌보는 것이다. 자
+ 유분방한 몰리와 달리 레이는 위생과 규칙에 엄격하고\,
+  어른의 도움 없이도 모든 일을 통제하려 한다. 바쁜 엄
+ 마와 병든 아버지 곁에서 감정을 숨기는 데 익숙해진 아
+ 이에게 몰리의 즉흥적인 행동은 그저 성가실 뿐이다. 하
+ 지만 놀이와 발레\, 서툰 대화를 함께하는 동안 두 사람
+ 은 서로의 까다로운 태도 뒤에 외로움이 있다는 사실을 
+ 알아간다. 책임지는 법을 배워야 하는 몰리와 마음껏 어
+ 린아이로 지내지 못한 레이는 상대에게 가장 부족했던 
+ 시간을 선물할 수 있을까?\n\nhttps://www.themoviedb.org/movie/149
+ 26?language=ko-KR
+URL:https://www.themoviedb.org/movie/14926?language=ko-KR
+CATEGORIES:넷플릭스
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:netflix-movie-940009-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:🟥 레이 건 (넷플릭스)
@@ -1264,7 +1220,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1457866-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🟥 클리프 부스의 더 뻔뻔한 모험 (넷플릭스)
@@ -1297,7 +1253,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-1532610-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:🟥 잉크 (넷플릭스)
@@ -1309,7 +1265,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:netflix-movie-701244-netflix@release-calendar
-DTSTAMP:20261114T214336Z
+DTSTAMP:20261115T214508Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:🟥 더 테이크 (넷플릭스)
