@@ -8,39 +8,8 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:appletv-movie-1050981-appletv@release-calendar
-DTSTAMP:20261126T220159Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:⬛ '나는\, 휴먼' - Being Heumann (애플TV+)
-DESCRIPTION:원제: Being Heumann\n애플TV+ · 영화\n\n억척스럽고 
- 반항적이며 더는 짐짝 취급당하지 않겠다는 주디 휴먼
- 은 자신의 분노를 혁명으로 바꾼다. 1977년\, 주디와 100여
-  명 규모의 장애인 인권 시위대는 아주 강력한 메시지를
-  보낸다. 망가진 것은 우리가 아니라 시스템이라고.\n\nht
- tps://www.themoviedb.org/movie/1050981?language=ko-KR
-URL:https://www.themoviedb.org/movie/1050981?language=ko-KR
-CATEGORIES:애플TV+
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:appletv-movie-1780407-appletv@release-calendar
-DTSTAMP:20261126T220159Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:⬛ '스누피 스페셜: 크리스마스까지 12일' - Snoopy Pre
- sents: 12 Days of Snoopy (애플TV+)
-DESCRIPTION:원제: Snoopy Presents: 12 Days of Snoopy\n애플TV+ · 영화
- \n\n산타의 못된 어린이 명단에서 빠지고 싶은 스누피는 
- 동네에서 가장 착한 비글이 되려고 고군분투한다.\n\nhttp
- s://www.themoviedb.org/movie/1780407?language=ko-KR
-URL:https://www.themoviedb.org/movie/1780407?language=ko-KR
-CATEGORIES:애플TV+
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:appletv-movie-1084409-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:⬛ 스위스 (애플TV+)
@@ -64,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1368337-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:⬛ 오디세이 (애플TV+)
@@ -82,7 +51,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1263337-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:⬛ 하트 오브 비스트 (애플TV+)
@@ -106,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1281331-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:⬛ 소셜 레코닝 (애플TV+)
@@ -123,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1280115-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:⬛ '워리어 키드' - Way of the Warrior Kid (애플TV+)
@@ -139,7 +108,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1423191-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:⬛ 레지던트 이블: 0번째 밤 (애플TV+)
@@ -158,7 +127,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1235304-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:⬛ La Venue de l'avenir (애플TV+)
@@ -170,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1404684-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:⬛ 그저 환상일 뿐 (애플TV+)
@@ -187,7 +156,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:appletv-movie-1455079-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:⬛ You\, Me & Tuscany (애플TV+)
@@ -198,8 +167,25 @@ CATEGORIES:애플TV+
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:appletv-movie-1153576-appletv@release-calendar
+DTSTAMP:20261127T220223Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:⬛ 스트리트 파이터 (애플TV+)
+DESCRIPTION:원제: Street Fighter\n애플TV+ · 영화\n\n1993년\, 숙명
+ 의 라이벌 류와 켄은 미스터리한 여성 춘리의 제안으로 
+ 세계 최강의 파이터들이 모인 '월드 워리어 토너먼트'에
+  참여하게 된다. 라운드가 거듭될수록 두 사람은 목숨을
+  건 배틀 로얄 속에 숨겨진 거대한 음모의 실체를 마주
+ 하게 되는데…\n\nhttps://www.themoviedb.org/movie/1153576?language=k
+ o-KR
+URL:https://www.themoviedb.org/movie/1153576?language=ko-KR
+CATEGORIES:애플TV+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:appletv-movie-1299382-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:⬛ 어페어: 외도의 법칙 (애플TV+)
@@ -213,8 +199,23 @@ CATEGORIES:애플TV+
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:appletv-movie-1088548-appletv@release-calendar
+DTSTAMP:20261127T220223Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:⬛ 비터 크리스마스 (애플TV+)
+DESCRIPTION:원제: Amarga Navidad\n애플TV+ · 영화\n\n이야기는 가
+ 까운 이들의 삶을 소재로 시나리오를 쓰는 영화감독 ′
+ 라울′의 창작 여정을 따라간다. 예술을 위해 타인의 사
+ 적인 삶을 어디까지 끌어들여도 되는 걸까\n\nhttps://www.th
+ emoviedb.org/movie/1088548?language=ko-KR
+URL:https://www.themoviedb.org/movie/1088548?language=ko-KR
+CATEGORIES:애플TV+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:appletv-movie-1465063-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:⬛ 포가튼 아일랜드 (애플TV+)
@@ -238,8 +239,28 @@ CATEGORIES:애플TV+
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:appletv-movie-950028-appletv@release-calendar
+DTSTAMP:20261127T220223Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:⬛ 완벽한 초대 (애플TV+)
+DESCRIPTION:원제: The Invite\n애플TV+ · 영화\n\n대화 없는 결혼
+  생활에 무뎌진 부부 ‘앤젤라’와 ‘조’. 어느 날 윗
+ 집 커플 ‘피냐’와 ‘호크’가 흘려보낸 수상한 소음
+ 이 이들 사이에 흐르던 침묵을 깨운다. 궁금증을 참을 
+ 수 없는 ‘앤젤라’와 불만을 숨길 수 없는 ‘조’는 이
+ 런저런 핑계로 윗집 커플을 저녁 식사에 초대한다. 그러
+ 나 평범함을 거부한 대화가 오가면서 인생 최대의 아찔
+ 한 순간이 펼쳐지는데… 끝나기 직전의 우리\, 선 넘어
+ 버린 그들. “마지막으로 […]한 게 언제예요?”\n\nhttps:/
+ /www.themoviedb.org/movie/950028?language=ko-KR
+URL:https://www.themoviedb.org/movie/950028?language=ko-KR
+CATEGORIES:애플TV+
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:appletv-movie-1400837-appletv@release-calendar
-DTSTAMP:20261126T220159Z
+DTSTAMP:20261127T220223Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:⬛ 아더 마미 (애플TV+)
